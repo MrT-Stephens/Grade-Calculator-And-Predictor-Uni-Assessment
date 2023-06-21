@@ -12,7 +12,7 @@
   <a href="#how-to-use">How To Use</a>
 </p>
 
-![screenshot](https://github.com/MrT-Stephens/Restaurant-Take-Away-System-Uni-Assessment/blob/master/Images/Restaurant-Take-Away-System-Main.gif)
+![screenshot](https://github.com/MrT-Stephens/Grade-Calculator-And-Predictor-Uni-Assessment/blob/master/Images/Grade-Calc-And-Predict.gif)
 
 ## Key Features
 
@@ -23,19 +23,16 @@
 * List students.
   - Will list all the student's data in the console.
 
-![screenshot](https://github.com/MrT-Stephens/Restaurant-Take-Away-System-Uni-Assessment/blob/master/Images/User-Input-Validation-1.gif)
-![screenshot](https://github.com/MrT-Stephens/Restaurant-Take-Away-System-Uni-Assessment/blob/master/Images/User-Input-Validation-2.gif)
-
 ## How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Visual Studio](https://visualstudio.microsoft.com/). You can either clone the respiratory directly in [Visual Studio](https://visualstudio.microsoft.com/) or run this in your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/MrT-Stephens/Restaurant-Take-Away-System-Uni-Assessment
+$ git clone https://github.com/MrT-Stephens/Grade-Calculator-And-Predictor-Uni-Assessment
 
 # Go into the repository
-$ cd Restaurant-Take-Away-System-Uni-Assessment
+$ cd Grade-Calculator-And-Predictor-Uni-Assessment
 ```
 > **Note**
 > Open the '.sln' once cloned as this will open the project directly in [Visual Studio](https://visualstudio.microsoft.com/).
