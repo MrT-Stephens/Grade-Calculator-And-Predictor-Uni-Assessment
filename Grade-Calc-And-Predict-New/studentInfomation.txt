@@ -1,0 +1,1005 @@
+Jocelyn Bizzey|12232974|12232974@students.southwales.ac.uk|052|094|099|099|93.3|First Class|N/A|18:07:21|05/13/22
+Jim Devonish|42725138|42725138@students.southwales.ac.uk|061|098|098|089|90.7|First Class|N/A|17:20:32|08/01/22
+Ethelda Forst|03137003|03137003@students.southwales.ac.uk|062|089|093|093|89.1|First Class|N/A|12:59:34|07/30/22
+Lindsy Geistmann|34777318|34777318@students.southwales.ac.uk|097|082|095|085|88.6|First Class|N/A|14:55:42|10/01/22
+Gayla Nolton|05069268|05069268@students.southwales.ac.uk|045|099|092|089|87.5|First Class|N/A|11:36:36|01/24/23
+Steffane Valentine|25066651|25066651@students.southwales.ac.uk|048|096|086|093|87|First Class|N/A|04:57:11|08/18/22
+Joaquin Well|50311986|50311986@students.southwales.ac.uk|075|076|090|093|86.9|First Class|N/A|02:13:02|07/07/22
+Davide Salmons|13368649|13368649@students.southwales.ac.uk|076|073|094|091|86.8|First Class|N/A|11:24:22|10/21/22
+Jessey Doddridge|50829830|50829830@students.southwales.ac.uk|029|088|093|096|86.8|First Class|N/A|06:21:45|08/14/22
+Demetra Punshon|00438201|00438201@students.southwales.ac.uk|096|081|072|098|86.6|First Class|N/A|12:35:06|01/18/23
+Lothaire Millership|66199967|66199967@students.southwales.ac.uk|067|092|072|097|85.5|First Class|N/A|15:41:48|12/28/22
+Sherwin Silvers|47521971|47521971@students.southwales.ac.uk|042|060|098|098|84.8|First Class|N/A|18:11:48|08/15/22
+Huw Williams|30036789|30036789@students.southwales.ac.uk|087|076|087|087|84.8|First Class|N/A|18:40:43|02/01/23
+Lothario Strowlger|94811029|94811029@students.southwales.ac.uk|069|077|080|094|83.9|First Class|N/A|21:55:26|10/28/22
+Clark Macconaghy|73746687|73746687@students.southwales.ac.uk|099|078|066|094|82.9|First Class|N/A|06:55:23|09/21/22
+Barbara McMillam|47595686|47595686@students.southwales.ac.uk|034|066|092|095|82.2|First Class|N/A|09:45:25|08/09/22
+Brenda Labroue|75937680|75937680@students.southwales.ac.uk|098|076|085|079|82.1|First Class|N/A|17:55:03|08/05/22
+Reinaldos Platt|93235588|93235588@students.southwales.ac.uk|027|067|093|094|81.6|First Class|N/A|19:21:25|04/12/22
+Shayne Goulborne|22640003|22640003@students.southwales.ac.uk|026|091|091|083|81.3|First Class|N/A|23:03:43|11/23/22
+Egon Sewell|00958571|00958571@students.southwales.ac.uk|057|046|094|095|81.1|First Class|N/A|22:26:56|07/21/22
+Edwin Jacobs|03661491|03661491@students.southwales.ac.uk|065|082|082|084|81.1|First Class|N/A|14:32:40|11/12/22
+Silvanus Traves|77908433|77908433@students.southwales.ac.uk|088|079|077|083|80.9|First Class|N/A|13:00:52|10/17/22
+Wandie Dunnaway|18148797|18148797@students.southwales.ac.uk|057|091|092|073|80.7|First Class|N/A|19:35:18|06/20/22
+Thebault Moynihan|42698736|42698736@students.southwales.ac.uk|075|074|069|094|80.6|First Class|N/A|06:36:48|02/17/22
+Mattie Betancourt|24537312|24537312@students.southwales.ac.uk|060|049|084|099|80.6|First Class|N/A|15:39:18|08/06/22
+Kandace Burchall|83193481|83193481@students.southwales.ac.uk|010|099|067|099|80.5|First Class|N/A|08:32:59|10/16/22
+Roderich Ragot|68029550|68029550@students.southwales.ac.uk|074|067|077|091|80.3|First Class|N/A|13:33:34|12/07/22
+Katalin Artinstall|46737454|46737454@students.southwales.ac.uk|033|088|084|085|80.1|First Class|N/A|08:08:20|08/14/22
+Chelsae Minnette|01202768|01202768@students.southwales.ac.uk|086|049|088|088|80|First Class|N/A|00:02:55|12/09/22
+Lelah McElhargy|09230807|09230807@students.southwales.ac.uk|081|082|097|066|80|First Class|N/A|20:14:16|01/16/23
+Hannis Drewell|57103468|57103468@students.southwales.ac.uk|056|040|090|098|79.8|First Class|N/A|19:38:37|10/04/22
+Luther Hansbury|79392450|79392450@students.southwales.ac.uk|066|037|099|089|79.3|First Class|N/A|02:47:56|10/13/22
+Dannie Van Dalen|11162850|11162850@students.southwales.ac.uk|061|074|091|077|79|First Class|N/A|11:13:22|11/09/22
+Cristen Shoobridge|34012798|34012798@students.southwales.ac.uk|080|073|054|100|78.8|First Class|N/A|20:11:01|05/07/22
+Monro Drivers|84187402|84187402@students.southwales.ac.uk|053|041|087|097|78.4|First Class|N/A|06:47:30|04/22/22
+Natalie Sorensen|48887186|48887186@students.southwales.ac.uk|016|065|095|088|78.3|First Class|N/A|23:16:26|01/25/23
+Dillie Print|65777812|65777812@students.southwales.ac.uk|048|068|098|076|78.2|First Class|N/A|23:14:43|03/26/22
+Magdalen Jeffcock|31276795|31276795@students.southwales.ac.uk|033|049|096|090|77.9|First Class|N/A|22:45:30|05/15/22
+Michaella Bartels|93395861|93395861@students.southwales.ac.uk|064|088|085|071|77.9|First Class|N/A|12:57:05|07/05/22
+Kaila Samways|29165402|29165402@students.southwales.ac.uk|031|086|094|073|77.7|First Class|N/A|17:14:24|10/31/22
+Obie Blaskett|17932833|17932833@students.southwales.ac.uk|021|074|069|100|77.6|First Class|N/A|12:59:04|01/12/23
+Alleen Swaffield|20606086|20606086@students.southwales.ac.uk|079|084|044|099|77.5|First Class|N/A|18:52:46|01/30/23
+Kev MacCurley|29130436|29130436@students.southwales.ac.uk|018|073|086|088|77.4|First Class|N/A|20:05:28|06/15/22
+Spike Ianelli|51961155|51961155@students.southwales.ac.uk|063|098|073|074|77.4|First Class|N/A|14:14:37|11/25/22
+Ambrosio Hullbrook|67646285|67646285@students.southwales.ac.uk|065|063|077|088|77.4|First Class|N/A|15:16:17|12/22/22
+Lexie Cawthron|36364735|36364735@students.southwales.ac.uk|069|020|089|099|77.2|First Class|N/A|21:11:59|05/13/22
+Kiri Stonman|88568750|88568750@students.southwales.ac.uk|078|092|079|068|77.1|First Class|N/A|08:13:03|09/13/22
+Alejandro Whayman|51632961|51632961@students.southwales.ac.uk|076|069|064|091|77|First Class|N/A|20:19:03|04/26/22
+Lainey Ellar|10445425|10445425@students.southwales.ac.uk|003|054|099|090|76.8|First Class|N/A|09:18:40|01/11/23
+Loni Shawel|28411985|28411985@students.southwales.ac.uk|093|055|079|081|76.4|First Class|N/A|11:04:23|10/11/22
+Clemence Cleland|93734681|93734681@students.southwales.ac.uk|067|089|054|089|76.3|First Class|N/A|20:03:48|12/30/22
+Wandis Hadden|88155554|88155554@students.southwales.ac.uk|089|028|094|083|75.9|First Class|N/A|06:25:05|01/13/23
+Zorana Biggs|02243021|02243021@students.southwales.ac.uk|017|081|061|099|75.8|First Class|N/A|16:20:42|07/03/22
+Cortie Radenhurst|73234641|73234641@students.southwales.ac.uk|084|058|063|092|75.7|First Class|N/A|10:24:57|02/04/22
+Elmo Scrivens|28178689|28178689@students.southwales.ac.uk|094|091|053|080|75.5|First Class|N/A|13:43:19|05/08/22
+Fields Semken|94654152|94654152@students.southwales.ac.uk|032|078|098|068|75.4|First Class|N/A|22:53:27|08/22/22
+Lane Petersen|68541866|68541866@students.southwales.ac.uk|082|052|087|076|75.1|First Class|N/A|12:15:13|05/05/22
+Glory Rushbury|61219445|61219445@students.southwales.ac.uk|081|096|048|083|74.9|First Class|N/A|21:39:15|09/04/22
+Tally Nuttey|14053283|14053283@students.southwales.ac.uk|055|033|079|097|74.6|First Class|N/A|22:10:14|11/05/22
+Karil Robion|11850483|11850483@students.southwales.ac.uk|076|022|079|097|74.5|First Class|N/A|13:34:26|07/27/22
+Mack Shuxsmith|21219444|21219444@students.southwales.ac.uk|096|041|078|083|74.4|First Class|N/A|11:50:58|09/21/22
+Danie McKune|82880248|82880248@students.southwales.ac.uk|025|084|089|071|74.4|First Class|N/A|06:56:31|12/06/22
+Mac Hartington|17199194|17199194@students.southwales.ac.uk|031|077|090|072|74.3|First Class|N/A|04:30:05|04/30/22
+Lonna Zupa|84804007|84804007@students.southwales.ac.uk|092|089|049|081|74.1|First Class|N/A|14:30:46|09/08/22
+Winfield Winterbotham|05883072|05883072@students.southwales.ac.uk|095|014|089|087|73.8|First Class|N/A|11:08:15|01/18/23
+Cherrita Doughty|90908151|90908151@students.southwales.ac.uk|028|079|081|077|73.7|First Class|N/A|09:56:33|08/26/22
+Consalve Petrasso|21230430|21230430@students.southwales.ac.uk|053|084|089|062|73.6|First Class|N/A|01:33:00|02/13/22
+Juliet Lequeux|38745776|38745776@students.southwales.ac.uk|060|085|043|094|73.5|First Class|N/A|19:24:57|01/07/23
+Gussie O'Fallowne|42725311|42725311@students.southwales.ac.uk|094|009|090|088|73.4|First Class|N/A|21:52:30|06/15/22
+Edithe Hackney|53096334|53096334@students.southwales.ac.uk|078|062|048|097|73.4|First Class|N/A|17:17:42|08/14/22
+Martainn Schroter|96341206|96341206@students.southwales.ac.uk|030|070|089|074|73.3|First Class|N/A|22:19:11|10/22/22
+Christine Tows|89974564|89974564@students.southwales.ac.uk|005|056|080|094|73.3|First Class|N/A|07:01:08|07/21/22
+Karylin Shallo|92600438|92600438@students.southwales.ac.uk|066|026|093|084|73.3|First Class|N/A|11:43:40|01/25/23
+Lynna Hamblyn|04507768|04507768@students.southwales.ac.uk|034|042|086|089|73.2|First Class|N/A|23:49:15|10/22/22
+Byrom Ivakin|52506100|52506100@students.southwales.ac.uk|060|046|078|086|73|First Class|N/A|16:52:27|01/04/23
+Padgett Frangello|78531864|78531864@students.southwales.ac.uk|018|095|070|078|73|First Class|N/A|14:48:05|01/29/23
+Wildon Siggens|95717886|95717886@students.southwales.ac.uk|078|018|092|085|73|First Class|N/A|14:06:46|10/23/22
+Cybil Rustedge|51752206|51752206@students.southwales.ac.uk|063|078|067|077|72.8|First Class|N/A|12:42:41|03/30/22
+Johnny Emmison|56846399|56846399@students.southwales.ac.uk|082|067|092|059|72.8|First Class|N/A|02:12:26|09/26/22
+Elwin Toppes|64172831|64172831@students.southwales.ac.uk|011|063|070|095|72.7|First Class|N/A|15:02:10|01/19/23
+Barbie Clines|24148708|24148708@students.southwales.ac.uk|019|093|076|073|72.5|First Class|N/A|16:51:24|08/13/22
+Stormy Bruckner|83625434|83625434@students.southwales.ac.uk|069|081|046|089|72.5|First Class|N/A|21:24:14|01/14/23
+Adrea Corbould|56086627|56086627@students.southwales.ac.uk|098|075|035|093|72.5|First Class|N/A|20:29:16|09/04/22
+Gaynor Spurier|58589694|58589694@students.southwales.ac.uk|046|083|077|070|72.3|First Class|N/A|20:40:42|02/19/22
+Saidee Crutchfield|74617915|74617915@students.southwales.ac.uk|099|066|093|052|71.8|First Class|N/A|07:40:34|08/13/22
+Rochester McNeil|65369128|65369128@students.southwales.ac.uk|031|094|093|055|71.8|First Class|N/A|04:24:23|11/13/22
+Bale Burk|02444330|02444330@students.southwales.ac.uk|015|096|062|081|71.7|First Class|N/A|18:54:54|11/05/22
+Danna Baudains|84570600|84570600@students.southwales.ac.uk|070|025|087|084|71.7|First Class|N/A|12:55:31|03/04/22
+Jephthah Todaro|43495491|43495491@students.southwales.ac.uk|065|096|081|054|71.6|First Class|N/A|19:19:57|01/07/23
+Dara Jacobson|87635830|87635830@students.southwales.ac.uk|061|082|037|095|71.6|First Class|N/A|03:01:11|06/22/22
+Niels Enderson|05132009|05132009@students.southwales.ac.uk|092|066|041|092|71.5|First Class|N/A|00:00:04|10/27/22
+Stefan Burgoyne|31742042|31742042@students.southwales.ac.uk|088|034|082|078|71.4|First Class|N/A|17:04:40|06/05/22
+Veronike Scurr|44377094|44377094@students.southwales.ac.uk|009|049|087|086|71.2|First Class|N/A|00:23:05|05/24/22
+Tonye Beeson|69985470|69985470@students.southwales.ac.uk|062|027|072|095|71.2|First Class|N/A|18:31:45|05/09/22
+Daveta Linfitt|95858702|95858702@students.southwales.ac.uk|080|062|059|082|70.9|First Class|N/A|21:09:08|08/08/22
+Algernon Storrier|22932990|22932990@students.southwales.ac.uk|060|086|054|078|70.6|First Class|N/A|05:35:30|07/15/22
+Griffith Prattington|37580916|37580916@students.southwales.ac.uk|046|084|040|093|70.6|First Class|N/A|22:57:22|07/04/22
+Cloris Strowthers|63039891|63039891@students.southwales.ac.uk|094|049|090|061|70.6|First Class|N/A|19:57:14|07/19/22
+Carce Phillot|81430995|81430995@students.southwales.ac.uk|021|096|071|070|70.6|First Class|N/A|16:56:49|03/22/22
+Ameline Hansman|17952408|17952408@students.southwales.ac.uk|018|091|063|079|70.5|First Class|N/A|04:34:12|11/04/22
+Vernon Dymick|78345626|78345626@students.southwales.ac.uk|033|052|070|089|70.3|First Class|N/A|02:02:28|09/22/22
+Hubie Leare|46013169|46013169@students.southwales.ac.uk|032|090|066|073|70.2|First Class|N/A|22:06:34|05/07/22
+Carmen Leates|94932760|94932760@students.southwales.ac.uk|067|022|074|092|70.1|First Class|N/A|00:27:59|04/26/22
+Cazzie Sambals|28864401|28864401@students.southwales.ac.uk|010|089|087|063|70.1|First Class|N/A|12:45:00|04/14/22
+Danit Greatbanks|80063399|80063399@students.southwales.ac.uk|087|082|019|098|70|First Class|N/A|09:29:29|11/25/22
+Charlean Planks|92137270|92137270@students.southwales.ac.uk|059|022|075|093|70|First Class|N/A|13:57:17|05/24/22
+Cortney Lesurf|10291065|10291065@students.southwales.ac.uk|074|045|079|074|69.7|Upper Second-Class|N/A|15:54:24|09/21/22
+Kiele Mathelon|45260711|45260711@students.southwales.ac.uk|071|097|030|085|69.5|Upper Second-Class|N/A|12:31:35|03/22/22
+Katha Boulden|64313967|64313967@students.southwales.ac.uk|012|062|058|096|69.4|Upper Second-Class|N/A|07:04:25|08/20/22
+Cassondra Dodle|72299193|72299193@students.southwales.ac.uk|043|050|081|077|69.4|Upper Second-Class|N/A|09:57:59|06/22/22
+Benni Unstead|42591127|42591127@students.southwales.ac.uk|089|081|090|043|69.3|Upper Second-Class|N/A|19:08:38|04/07/22
+Fonz Woller|10631107|10631107@students.southwales.ac.uk|066|045|071|081|69.3|Upper Second-Class|N/A|18:01:15|06/14/22
+Haven Delion|40400815|40400815@students.southwales.ac.uk|001|084|053|091|69.2|Upper Second-Class|N/A|03:09:40|08/28/22
+Hunt Branwhite|82243287|82243287@students.southwales.ac.uk|079|056|051|087|69.2|Upper Second-Class|N/A|04:03:16|05/27/22
+Gilberta Somes|63130711|63130711@students.southwales.ac.uk|076|042|061|087|69.1|Upper Second-Class|N/A|10:09:10|07/14/22
+Sande Lindstrom|16972853|16972853@students.southwales.ac.uk|082|008|071|095|69.1|Upper Second-Class|N/A|15:40:59|05/23/22
+Barbaraanne Jacobssen|31159429|31159429@students.southwales.ac.uk|091|029|090|068|69.1|Upper Second-Class|N/A|04:16:13|02/07/22
+Chuck Reckless|68595929|68595929@students.southwales.ac.uk|048|082|074|064|69|Upper Second-Class|N/A|06:52:35|12/10/22
+Kori Vedishchev|83454418|83454418@students.southwales.ac.uk|018|075|085|066|68.7|Upper Second-Class|N/A|23:40:11|07/28/22
+Vanda Pisculli|68684563|68684563@students.southwales.ac.uk|028|097|075|060|68.7|Upper Second-Class|N/A|22:17:31|10/18/22
+Elbertine Rubes|08777442|08777442@students.southwales.ac.uk|050|032|068|092|68.6|Upper Second-Class|N/A|12:20:50|09/15/22
+Pandora Vasechkin|81954295|81954295@students.southwales.ac.uk|050|045|091|068|68.5|Upper Second-Class|N/A|16:40:37|04/20/22
+Winona Tompkins|92691032|92691032@students.southwales.ac.uk|026|040|066|095|68.4|Upper Second-Class|N/A|11:00:26|12/24/22
+Laureen Burberow|55583117|55583117@students.southwales.ac.uk|054|059|084|065|68.4|Upper Second-Class|N/A|08:09:06|11/09/22
+Sybil Aronstein|10990400|10990400@students.southwales.ac.uk|041|094|021|098|68.4|Upper Second-Class|N/A|06:24:30|02/21/22
+Rhianna Norwich|71118385|71118385@students.southwales.ac.uk|041|043|089|072|68.2|Upper Second-Class|N/A|06:42:56|05/18/22
+Ede Shrive|49591436|49591436@students.southwales.ac.uk|022|016|080|097|68.2|Upper Second-Class|N/A|00:24:54|08/25/22
+Burlie Climpson|96587601|96587601@students.southwales.ac.uk|043|012|094|083|68.1|Upper Second-Class|N/A|13:31:38|08/18/22
+Eada Fairfoot|08371906|08371906@students.southwales.ac.uk|044|084|099|043|68.1|Upper Second-Class|N/A|07:13:47|09/07/22
+Trisha Ryton|46244247|46244247@students.southwales.ac.uk|081|023|093|068|67.8|Upper Second-Class|N/A|06:58:50|01/21/23
+Abbye Frears|81239434|81239434@students.southwales.ac.uk|049|009|074|097|67.7|Upper Second-Class|N/A|07:20:43|11/02/22
+Reagen Kennewell|60131264|60131264@students.southwales.ac.uk|065|085|055|069|67.6|Upper Second-Class|N/A|07:50:39|09/29/22
+Manda Kewish|12399975|12399975@students.southwales.ac.uk|079|089|069|053|67.6|Upper Second-Class|N/A|12:02:07|04/06/22
+Garold Niles|17948749|17948749@students.southwales.ac.uk|087|040|064|079|67.5|Upper Second-Class|N/A|15:10:50|07/29/22
+Corrine Cornils|17587189|17587189@students.southwales.ac.uk|096|094|025|079|67.5|Upper Second-Class|N/A|07:27:31|07/14/22
+Doug Fitzgerald|19785526|19785526@students.southwales.ac.uk|093|028|058|088|67.5|Upper Second-Class|N/A|02:51:18|06/10/22
+Sheena Sieve|39727082|39727082@students.southwales.ac.uk|075|092|025|085|67.4|Upper Second-Class|N/A|08:36:13|03/18/22
+Austin Beekmann|35782756|35782756@students.southwales.ac.uk|075|063|030|095|67.1|Upper Second-Class|N/A|00:25:36|09/05/22
+Ulric Chmiel|15471657|15471657@students.southwales.ac.uk|000|087|095|053|67.1|Upper Second-Class|N/A|18:23:37|07/17/22
+Violet Rockcliff|32913420|32913420@students.southwales.ac.uk|071|096|081|041|67|Upper Second-Class|N/A|17:46:03|05/02/22
+Gabriella Darrell|62251324|62251324@students.southwales.ac.uk|019|090|066|068|66.9|Upper Second-Class|N/A|11:55:03|03/11/22
+Jimmy Barnaby|98443208|98443208@students.southwales.ac.uk|022|025|099|075|66.9|Upper Second-Class|N/A|19:44:25|06/18/22
+Terrence Winnard|70186995|70186995@students.southwales.ac.uk|048|045|090|065|66.8|Upper Second-Class|N/A|12:48:27|10/22/22
+Loreen Noble|18292291|18292291@students.southwales.ac.uk|089|092|061|053|66.8|Upper Second-Class|N/A|00:03:51|09/10/22
+Toni Matzel|56666774|56666774@students.southwales.ac.uk|074|094|036|074|66.6|Upper Second-Class|N/A|03:17:39|02/23/22
+Clarabelle Budcock|53279905|53279905@students.southwales.ac.uk|044|064|035|097|66.5|Upper Second-Class|N/A|13:23:27|05/02/22
+Amii Delgardo|54426736|54426736@students.southwales.ac.uk|086|050|090|052|66.4|Upper Second-Class|N/A|15:10:32|01/27/23
+Mollee Pietzker|01240572|01240572@students.southwales.ac.uk|067|081|061|063|66.4|Upper Second-Class|N/A|07:37:32|04/01/22
+Kristine Pasek|31122130|31122130@students.southwales.ac.uk|077|027|088|067|66.3|Upper Second-Class|N/A|09:25:14|10/10/22
+Wendall Culvey|72731740|72731740@students.southwales.ac.uk|010|077|085|061|66.3|Upper Second-Class|N/A|04:25:11|10/03/22
+Nanci Kauscher|46238321|46238321@students.southwales.ac.uk|096|064|074|054|66.2|Upper Second-Class|N/A|19:54:55|04/07/22
+Stefania Berford|54900210|54900210@students.southwales.ac.uk|048|062|090|055|66.2|Upper Second-Class|N/A|09:25:15|11/04/22
+Susannah Restall|37191450|37191450@students.southwales.ac.uk|062|076|044|079|66.2|Upper Second-Class|N/A|16:47:49|03/26/22
+Etienne Hirsch|72481936|72481936@students.southwales.ac.uk|065|069|050|077|66.1|Upper Second-Class|N/A|01:12:58|06/26/22
+Sabra Dimitrie|89994893|89994893@students.southwales.ac.uk|047|098|054|064|66.1|Upper Second-Class|N/A|22:43:08|03/18/22
+Natal Kusick|41475355|41475355@students.southwales.ac.uk|067|048|043|092|66|Upper Second-Class|N/A|05:26:27|06/05/22
+Burty Luten|65500030|65500030@students.southwales.ac.uk|044|033|082|076|66|Upper Second-Class|N/A|22:19:20|08/21/22
+Gerianne Quinet|86884301|86884301@students.southwales.ac.uk|008|041|094|072|66|Upper Second-Class|N/A|06:13:44|11/27/22
+Osborne Breydin|15086467|15086467@students.southwales.ac.uk|098|071|068|054|66|Upper Second-Class|N/A|17:14:12|08/11/22
+Christian Snaden|42367210|42367210@students.southwales.ac.uk|017|092|041|084|66|Upper Second-Class|N/A|02:52:15|08/03/22
+Phillie Dowley|59971003|59971003@students.southwales.ac.uk|090|064|058|067|66|Upper Second-Class|N/A|13:20:50|02/03/22
+Doyle Pucker|55426317|55426317@students.southwales.ac.uk|070|082|014|096|66|Upper Second-Class|N/A|08:19:31|08/16/22
+Romonda Mossop|42118096|42118096@students.southwales.ac.uk|058|032|055|093|65.9|Upper Second-Class|N/A|06:54:39|05/06/22
+Alana Chrismas|33398204|33398204@students.southwales.ac.uk|057|078|095|040|65.8|Upper Second-Class|N/A|19:28:38|11/01/22
+Zelda Marcinkowski|03839940|03839940@students.southwales.ac.uk|082|067|066|061|65.8|Upper Second-Class|N/A|14:32:19|09/15/22
+Georgette Gatlin|65565286|65565286@students.southwales.ac.uk|022|034|078|083|65.6|Upper Second-Class|N/A|05:58:08|12/08/22
+Ferdie Ruggiero|44226735|44226735@students.southwales.ac.uk|062|097|041|069|65.5|Upper Second-Class|N/A|22:40:07|05/26/22
+Callie Danilov|42205861|42205861@students.southwales.ac.uk|085|084|052|061|65.3|Upper Second-Class|N/A|17:34:50|10/19/22
+Marisa Della Scala|68331363|68331363@students.southwales.ac.uk|057|046|078|067|65.1|Upper Second-Class|N/A|23:57:16|06/08/22
+Rosabel Chesnay|48874912|48874912@students.southwales.ac.uk|052|051|059|080|65.1|Upper Second-Class|N/A|18:43:56|06/28/22
+Lora Bartlett|34720346|34720346@students.southwales.ac.uk|047|025|091|070|65|Upper Second-Class|N/A|04:57:59|12/21/22
+Sigfried Gaspard|44663670|44663670@students.southwales.ac.uk|065|073|094|039|64.9|Upper Second-Class|N/A|18:39:34|11/12/22
+Hailee Priver|72624034|72624034@students.southwales.ac.uk|088|022|095|058|64.9|Upper Second-Class|N/A|04:07:10|07/01/22
+Spence Fallanche|01627239|01627239@students.southwales.ac.uk|076|091|070|045|64.8|Upper Second-Class|N/A|07:05:28|10/16/22
+Baldwin Wiltshier|63555515|63555515@students.southwales.ac.uk|087|090|031|072|64.8|Upper Second-Class|N/A|19:29:59|04/14/22
+Rochella Leal|04584505|04584505@students.southwales.ac.uk|028|058|056|084|64.8|Upper Second-Class|N/A|22:29:58|03/08/22
+Iago Snoden|35986955|35986955@students.southwales.ac.uk|096|053|078|053|64.8|Upper Second-Class|N/A|22:04:24|10/08/22
+Evan Onion|14895255|14895255@students.southwales.ac.uk|036|015|067|095|64.7|Upper Second-Class|N/A|22:46:35|03/06/22
+Olivier Ryam|32245600|32245600@students.southwales.ac.uk|096|052|065|063|64.7|Upper Second-Class|N/A|07:35:25|11/22/22
+Carin Nagle|99922520|99922520@students.southwales.ac.uk|033|092|023|090|64.6|Upper Second-Class|N/A|10:05:02|12/10/22
+Corissa Ingyon|71714807|71714807@students.southwales.ac.uk|078|014|077|077|64.5|Upper Second-Class|N/A|07:22:24|10/29/22
+Olympe Brindle|85335836|85335836@students.southwales.ac.uk|001|023|095|078|64.4|Upper Second-Class|N/A|09:19:36|10/03/22
+Carney Houseman|50715772|50715772@students.southwales.ac.uk|012|055|094|060|64.4|Upper Second-Class|N/A|23:25:33|01/07/23
+Chev Ismirnioglou|73676305|73676305@students.southwales.ac.uk|063|093|052|059|64.1|Upper Second-Class|N/A|05:30:37|08/09/22
+Gaby Veillard|33270860|33270860@students.southwales.ac.uk|005|097|086|046|64.1|Upper Second-Class|N/A|15:34:02|06/13/22
+Loree Renneke|92796893|92796893@students.southwales.ac.uk|031|069|041|087|64|Upper Second-Class|N/A|09:23:34|08/07/22
+Fredra McLennan|56808725|56808725@students.southwales.ac.uk|083|059|025|091|64|Upper Second-Class|N/A|23:30:03|12/26/22
+Mariska Sacker|57904295|57904295@students.southwales.ac.uk|069|079|055|062|64|Upper Second-Class|N/A|02:25:43|02/20/22
+Monroe Simmank|17821156|17821156@students.southwales.ac.uk|073|050|090|049|63.9|Upper Second-Class|N/A|17:24:21|03/25/22
+Bail Dyneley|75593318|75593318@students.southwales.ac.uk|053|075|045|075|63.8|Upper Second-Class|N/A|00:35:12|12/08/22
+Karlene Darey|11837092|11837092@students.southwales.ac.uk|004|059|081|068|63.7|Upper Second-Class|N/A|03:13:26|05/01/22
+Agnese Dumper|34103681|34103681@students.southwales.ac.uk|084|094|016|079|63.6|Upper Second-Class|N/A|02:28:12|11/27/22
+Blanca Chaikovski|06532204|06532204@students.southwales.ac.uk|034|046|042|096|63.6|Upper Second-Class|N/A|06:31:16|04/09/22
+Stanly Stroton|83140767|83140767@students.southwales.ac.uk|098|068|083|038|63.5|Upper Second-Class|N/A|09:22:42|12/10/22
+Anton Langthorne|04135904|04135904@students.southwales.ac.uk|023|078|096|042|63.5|Upper Second-Class|N/A|19:49:57|07/25/22
+Timi Cartmael|23921987|23921987@students.southwales.ac.uk|094|044|059|069|63.5|Upper Second-Class|N/A|13:45:37|10/11/22
+Tamqrah Grizard|08976081|08976081@students.southwales.ac.uk|063|061|075|056|63.4|Upper Second-Class|N/A|15:12:18|01/04/23
+Lainey Tidbold|59481428|59481428@students.southwales.ac.uk|051|084|085|040|63.4|Upper Second-Class|N/A|01:09:51|06/05/22
+Nikkie McPhilemy|87358539|87358539@students.southwales.ac.uk|029|011|077|088|63.4|Upper Second-Class|N/A|03:20:04|06/28/22
+Mirella Bithell|97125120|97125120@students.southwales.ac.uk|074|094|016|081|63.4|Upper Second-Class|N/A|07:09:39|08/10/22
+Allina Devil|46050268|46050268@students.southwales.ac.uk|048|084|099|030|63.3|Upper Second-Class|N/A|21:25:50|01/15/23
+Jere Gilbanks|55441131|55441131@students.southwales.ac.uk|071|050|082|054|63.3|Upper Second-Class|N/A|18:04:07|10/29/22
+Micki Tookey|62851410|62851410@students.southwales.ac.uk|026|047|084|065|63.2|Upper Second-Class|N/A|08:28:47|05/24/22
+Elle Colbridge|78952113|78952113@students.southwales.ac.uk|015|099|065|056|63.2|Upper Second-Class|N/A|21:25:11|06/08/22
+Vi Covelle|66244830|66244830@students.southwales.ac.uk|059|060|037|085|63|Upper Second-Class|N/A|02:39:14|03/13/22
+Marlowe Tampin|86454809|86454809@students.southwales.ac.uk|088|081|084|032|63|Upper Second-Class|N/A|10:27:16|07/25/22
+Matty Annwyl|70332845|70332845@students.southwales.ac.uk|027|062|034|094|62.9|Upper Second-Class|N/A|09:08:30|03/20/22
+Marius Dunbabin|65582730|65582730@students.southwales.ac.uk|038|084|034|080|62.8|Upper Second-Class|N/A|04:36:32|05/07/22
+Orton Luten|91433037|91433037@students.southwales.ac.uk|047|084|007|098|62.8|Upper Second-Class|N/A|04:26:59|08/03/22
+Ranee Bath|81013765|81013765@students.southwales.ac.uk|018|085|033|085|62.7|Upper Second-Class|N/A|11:22:33|04/30/22
+Debbi Monteith|66063991|66063991@students.southwales.ac.uk|087|084|061|047|62.6|Upper Second-Class|N/A|15:56:36|04/06/22
+Garrik Lewsy|83996053|83996053@students.southwales.ac.uk|060|044|086|055|62.6|Upper Second-Class|N/A|14:50:12|03/09/22
+Cher Maxwale|46476994|46476994@students.southwales.ac.uk|086|053|042|077|62.6|Upper Second-Class|N/A|11:48:19|03/07/22
+Grange Trembath|46686899|46686899@students.southwales.ac.uk|029|026|048|100|62.5|Upper Second-Class|N/A|10:39:14|09/07/22
+Giustina Hierro|88589481|88589481@students.southwales.ac.uk|093|011|064|079|62.3|Upper Second-Class|N/A|15:54:29|08/23/22
+Arlina Fransson|06855881|06855881@students.southwales.ac.uk|058|014|079|075|62.3|Upper Second-Class|N/A|23:31:52|01/23/23
+Andra Timny|65586729|65586729@students.southwales.ac.uk|003|070|052|081|62.3|Upper Second-Class|N/A|14:26:45|02/06/22
+Genvieve Stollwerk|18144700|18144700@students.southwales.ac.uk|050|099|078|035|62.2|Upper Second-Class|N/A|11:27:46|04/06/22
+Bob Bulpitt|06400231|06400231@students.southwales.ac.uk|066|074|056|060|62.2|Upper Second-Class|N/A|06:41:20|09/04/22
+Dacey Mateos|13690567|13690567@students.southwales.ac.uk|031|070|086|048|62.1|Upper Second-Class|N/A|08:30:14|08/24/22
+Marianna Werner|00224488|00224488@students.southwales.ac.uk|040|094|084|035|62|Upper Second-Class|N/A|01:19:41|10/22/22
+Corilla Clutton|67009427|67009427@students.southwales.ac.uk|077|050|066|061|61.9|Upper Second-Class|N/A|08:49:53|09/22/22
+Raye Spalton|33314477|33314477@students.southwales.ac.uk|093|091|032|062|61.9|Upper Second-Class|N/A|19:03:12|10/23/22
+Brenden Pagon|73710685|73710685@students.southwales.ac.uk|047|078|045|070|61.8|Upper Second-Class|N/A|14:14:19|09/10/22
+Imogen Swate|47590400|47590400@students.southwales.ac.uk|068|054|039|081|61.7|Upper Second-Class|N/A|00:59:12|10/16/22
+Gusella Cringle|50080462|50080462@students.southwales.ac.uk|084|064|071|048|61.7|Upper Second-Class|N/A|18:53:09|11/19/22
+Jennette Vuittet|00902344|00902344@students.southwales.ac.uk|087|016|044|091|61.5|Upper Second-Class|N/A|11:24:58|06/09/22
+Leigh Partlett|49806424|49806424@students.southwales.ac.uk|057|071|036|077|61.5|Upper Second-Class|N/A|09:30:16|09/01/22
+Wallie Kendle|52726445|52726445@students.southwales.ac.uk|095|071|090|027|61.5|Upper Second-Class|N/A|00:06:19|06/20/22
+Karly Cristofano|86226438|86226438@students.southwales.ac.uk|060|044|074|061|61.4|Upper Second-Class|N/A|02:50:43|08/31/22
+Leonanie Sprigg|53272098|53272098@students.southwales.ac.uk|042|021|046|098|61.4|Upper Second-Class|N/A|14:48:41|04/02/22
+Samuele Lagadu|48440243|48440243@students.southwales.ac.uk|003|000|093|083|61.4|Upper Second-Class|N/A|14:22:56|08/26/22
+Karlie Gionettitti|58976414|58976414@students.southwales.ac.uk|014|079|023|093|61.3|Upper Second-Class|N/A|13:01:10|08/23/22
+Josephine Ekell|35696852|35696852@students.southwales.ac.uk|098|067|023|078|61.3|Upper Second-Class|N/A|12:56:48|01/26/23
+Osbourne Dinse|45763543|45763543@students.southwales.ac.uk|019|032|098|059|61.3|Upper Second-Class|N/A|14:57:43|10/23/22
+Vic Husher|82185719|82185719@students.southwales.ac.uk|058|051|099|039|61.3|Upper Second-Class|N/A|07:10:24|10/21/22
+Sophi Ogelbe|85958543|85958543@students.southwales.ac.uk|035|036|067|076|61.2|Upper Second-Class|N/A|20:10:16|01/13/23
+Carmita Thornber|33993521|33993521@students.southwales.ac.uk|064|080|029|075|61.1|Upper Second-Class|N/A|00:21:30|08/19/22
+Helen Maker|36043168|36043168@students.southwales.ac.uk|098|060|083|036|61.1|Upper Second-Class|N/A|21:39:41|01/31/22
+Daffi Murtell|77220965|77220965@students.southwales.ac.uk|075|025|058|078|61.1|Upper Second-Class|N/A|09:57:35|02/07/22
+Loleta Paddell|01340403|01340403@students.southwales.ac.uk|045|075|083|041|60.8|Upper Second-Class|N/A|07:44:02|05/17/22
+Shel Wyllie|86766371|86766371@students.southwales.ac.uk|077|061|095|031|60.8|Upper Second-Class|N/A|23:49:34|01/01/23
+Rick Conradsen|57483759|57483759@students.southwales.ac.uk|089|087|087|021|60.8|Upper Second-Class|N/A|05:39:19|09/25/22
+Erika Daintith|99243069|99243069@students.southwales.ac.uk|022|097|049|061|60.7|Upper Second-Class|N/A|17:09:21|07/23/22
+Aloise Marvin|02978575|02978575@students.southwales.ac.uk|071|000|089|067|60.6|Upper Second-Class|N/A|06:51:17|08/17/22
+Hermy Grout|32446413|32446413@students.southwales.ac.uk|077|050|027|087|60.6|Upper Second-Class|N/A|07:23:05|04/20/22
+Wynn Lazare|95266157|95266157@students.southwales.ac.uk|095|060|017|085|60.6|Upper Second-Class|N/A|16:08:15|03/02/22
+Laurel Plumbe|03154959|03154959@students.southwales.ac.uk|018|019|099|063|60.5|Upper Second-Class|N/A|02:11:30|01/23/23
+Gaelan Hirsch|49163510|49163510@students.southwales.ac.uk|035|036|086|060|60.5|Upper Second-Class|N/A|10:46:06|01/23/23
+Tandy Fairbourne|62022712|62022712@students.southwales.ac.uk|042|067|091|039|60.5|Upper Second-Class|N/A|04:42:45|04/11/22
+Paige Haddinton|26724802|26724802@students.southwales.ac.uk|072|021|042|091|60.4|Upper Second-Class|N/A|07:21:01|01/08/23
+Pavlov Phelit|27321655|27321655@students.southwales.ac.uk|096|012|060|076|60.4|Upper Second-Class|N/A|11:42:13|12/29/22
+Perkin Crummy|86587901|86587901@students.southwales.ac.uk|022|041|048|089|60.4|Upper Second-Class|N/A|08:17:36|11/02/22
+Angelico Kielty|81157774|81157774@students.southwales.ac.uk|093|088|078|025|60.3|Upper Second-Class|N/A|06:57:26|02/25/22
+Gregor Gravells|99285152|99285152@students.southwales.ac.uk|072|044|037|083|60.3|Upper Second-Class|N/A|11:30:37|01/04/23
+Les MacGruer|54059924|54059924@students.southwales.ac.uk|035|075|087|039|60.2|Upper Second-Class|N/A|13:38:23|06/02/22
+Dwayne Eynon|42711457|42711457@students.southwales.ac.uk|013|010|075|086|60.2|Upper Second-Class|N/A|22:21:56|03/30/22
+Ody Batsford|62767346|62767346@students.southwales.ac.uk|067|094|013|077|60.2|Upper Second-Class|N/A|02:26:07|01/28/23
+Haven Bembrick|63406627|63406627@students.southwales.ac.uk|088|069|080|034|60.2|Upper Second-Class|N/A|19:12:11|05/05/22
+Yuri Ogelbe|95338813|95338813@students.southwales.ac.uk|047|039|056|077|60.1|Upper Second-Class|N/A|02:30:45|12/12/22
+Orly Jewster|62026452|62026452@students.southwales.ac.uk|029|056|093|045|60|Upper Second-Class|N/A|11:22:55|06/16/22
+Charles Webbe|17522362|17522362@students.southwales.ac.uk|097|099|063|029|60|Upper Second-Class|N/A|18:38:29|04/13/22
+Francklin Bolf|24265651|24265651@students.southwales.ac.uk|075|070|027|076|60|Upper Second-Class|N/A|05:35:51|02/17/22
+Ancell Marcinkus|52306565|52306565@students.southwales.ac.uk|089|078|081|028|60|Upper Second-Class|N/A|13:04:02|10/30/22
+Olin Creak|53130727|53130727@students.southwales.ac.uk|092|056|025|080|59.9|Lower Second-Class|N/A|10:45:34|04/13/22
+Shir Giacobo|06300767|06300767@students.southwales.ac.uk|059|066|094|031|59.7|Lower Second-Class|N/A|23:15:46|09/06/22
+Dalila Trueman|55894792|55894792@students.southwales.ac.uk|093|045|098|030|59.7|Lower Second-Class|N/A|02:11:19|02/11/22
+Almeda Arnaudon|22001708|22001708@students.southwales.ac.uk|085|014|028|100|59.7|Lower Second-Class|N/A|13:24:52|08/17/22
+Christel Medley|82140138|82140138@students.southwales.ac.uk|035|015|069|081|59.6|Lower Second-Class|N/A|23:02:37|12/01/22
+Nap Madeley|11994106|11994106@students.southwales.ac.uk|041|056|069|059|59.6|Lower Second-Class|N/A|14:25:42|01/15/23
+Peta Deboick|55248159|55248159@students.southwales.ac.uk|099|024|023|095|59.6|Lower Second-Class|N/A|17:43:33|04/10/22
+Aldon Gethin|86281486|86281486@students.southwales.ac.uk|080|046|064|058|59.6|Lower Second-Class|N/A|04:27:34|08/25/22
+Johna Geany|64991787|64991787@students.southwales.ac.uk|099|088|000|080|59.5|Lower Second-Class|N/A|12:27:43|10/12/22
+Sherilyn Kingman|31993854|31993854@students.southwales.ac.uk|078|017|078|062|59.4|Lower Second-Class|N/A|21:05:21|01/29/23
+Bar Wilcinskis|94095271|94095271@students.southwales.ac.uk|064|087|052|050|59.4|Lower Second-Class|N/A|07:38:41|12/13/22
+Kerstin Knight|76707351|76707351@students.southwales.ac.uk|020|052|031|094|59.3|Lower Second-Class|N/A|15:30:58|07/23/22
+Werner Jedrzejewicz|90731963|90731963@students.southwales.ac.uk|064|052|088|040|59.2|Lower Second-Class|N/A|13:45:18|03/29/22
+Chick Matlock|47399920|47399920@students.southwales.ac.uk|058|087|012|081|59.2|Lower Second-Class|N/A|16:09:54|12/15/22
+Vivie Pepall|44318087|44318087@students.southwales.ac.uk|084|064|085|031|59.1|Lower Second-Class|N/A|15:24:12|06/19/22
+Warren Cater|70151788|70151788@students.southwales.ac.uk|006|009|062|095|59|Lower Second-Class|N/A|21:08:17|05/28/22
+Marilyn Cleare|95451404|95451404@students.southwales.ac.uk|041|073|009|094|59|Lower Second-Class|N/A|02:51:31|05/19/22
+Velma Howchin|34411216|34411216@students.southwales.ac.uk|042|067|031|080|58.9|Lower Second-Class|N/A|16:38:54|12/07/22
+Waneta McCully|41180518|41180518@students.southwales.ac.uk|013|043|078|064|58.9|Lower Second-Class|N/A|19:54:45|07/09/22
+Gasparo Drinkhill|78362768|78362768@students.southwales.ac.uk|091|061|084|031|58.9|Lower Second-Class|N/A|05:41:51|08/15/22
+Caresse Haylor|21625125|21625125@students.southwales.ac.uk|031|055|072|058|58.9|Lower Second-Class|N/A|12:38:10|05/08/22
+Siward Bello|17350132|17350132@students.southwales.ac.uk|098|057|035|068|58.9|Lower Second-Class|N/A|01:52:47|05/17/22
+Con Wadworth|06185791|06185791@students.southwales.ac.uk|098|010|062|071|58.8|Lower Second-Class|N/A|23:27:44|03/12/22
+Essy Woofinden|63287381|63287381@students.southwales.ac.uk|051|031|038|090|58.7|Lower Second-Class|N/A|08:34:38|10/19/22
+Rosita Aslett|03031878|03031878@students.southwales.ac.uk|051|058|077|047|58.6|Lower Second-Class|N/A|09:51:11|02/03/22
+Dacie Crawford|19783728|19783728@students.southwales.ac.uk|065|040|099|036|58.6|Lower Second-Class|N/A|04:27:46|12/12/22
+Fleurette Iacovini|83217694|83217694@students.southwales.ac.uk|082|048|092|033|58.6|Lower Second-Class|N/A|08:43:43|09/11/22
+Charmian Keoghan|39053582|39053582@students.southwales.ac.uk|079|007|060|078|58.5|Lower Second-Class|N/A|00:28:04|09/03/22
+Bartie Axby|61774250|61774250@students.southwales.ac.uk|001|098|008|091|58.5|Lower Second-Class|N/A|13:05:51|01/03/23
+Benni Suffe|36577458|36577458@students.southwales.ac.uk|066|046|058|063|58.4|Lower Second-Class|N/A|14:26:44|04/02/22
+Ray Vitall|51585467|51585467@students.southwales.ac.uk|022|094|096|021|58.2|Lower Second-Class|N/A|02:53:06|02/26/22
+Natty Bonnell|82468963|82468963@students.southwales.ac.uk|072|082|022|070|58.2|Lower Second-Class|N/A|11:45:59|04/16/22
+Ivan Findlater|90131007|90131007@students.southwales.ac.uk|080|069|072|037|58.2|Lower Second-Class|N/A|06:36:13|06/16/22
+Rab Hasney|47683371|47683371@students.southwales.ac.uk|094|057|015|082|58.1|Lower Second-Class|N/A|19:15:28|02/28/22
+Stefa Yellowlees|74055953|74055953@students.southwales.ac.uk|085|074|073|032|58|Lower Second-Class|N/A|05:34:41|06/12/22
+Eldredge Puttnam|68857152|68857152@students.southwales.ac.uk|015|047|050|080|57.9|Lower Second-Class|N/A|04:50:04|03/07/22
+Hatty Cowgill|26972464|26972464@students.southwales.ac.uk|037|068|002|100|57.9|Lower Second-Class|N/A|01:20:24|01/27/23
+Colet Marini|22274975|22274975@students.southwales.ac.uk|058|030|063|068|57.9|Lower Second-Class|N/A|08:17:00|04/09/22
+Clevey Helsdon|50660990|50660990@students.southwales.ac.uk|071|024|096|043|57.9|Lower Second-Class|N/A|19:15:35|03/26/22
+Roz Tremayle|47258563|47258563@students.southwales.ac.uk|060|060|065|051|57.9|Lower Second-Class|N/A|21:17:09|03/16/22
+Bess Clinnick|07315675|07315675@students.southwales.ac.uk|052|081|052|052|57.8|Lower Second-Class|N/A|11:49:21|10/05/22
+Opal Goford|48487232|48487232@students.southwales.ac.uk|077|016|083|055|57.8|Lower Second-Class|N/A|12:51:49|04/05/22
+Saraann Cranny|96919635|96919635@students.southwales.ac.uk|060|065|081|036|57.7|Lower Second-Class|N/A|04:19:09|07/08/22
+Audry Kleiner|65608118|65608118@students.southwales.ac.uk|006|044|057|078|57.7|Lower Second-Class|N/A|04:45:29|12/30/22
+Noelle Sissland|75616396|75616396@students.southwales.ac.uk|088|053|065|047|57.7|Lower Second-Class|N/A|10:23:05|06/08/22
+Joelie Frankham|29443289|29443289@students.southwales.ac.uk|085|050|036|071|57.7|Lower Second-Class|N/A|12:11:05|12/26/22
+Dalt Burwin|18691073|18691073@students.southwales.ac.uk|070|035|059|065|57.7|Lower Second-Class|N/A|21:18:22|10/25/22
+Grace Darlasson|34154040|34154040@students.southwales.ac.uk|083|013|073|062|57.6|Lower Second-Class|N/A|19:44:44|07/31/22
+Neddie Zottoli|22507434|22507434@students.southwales.ac.uk|058|082|066|039|57.6|Lower Second-Class|N/A|08:36:21|03/17/22
+Stefa Tirone|59049215|59049215@students.southwales.ac.uk|045|098|037|056|57.6|Lower Second-Class|N/A|14:18:12|10/17/22
+Beckie Breheny|98817364|98817364@students.southwales.ac.uk|038|028|039|091|57.5|Lower Second-Class|N/A|17:12:37|08/07/22
+Euell Calveley|70596267|70596267@students.southwales.ac.uk|039|077|062|049|57.5|Lower Second-Class|N/A|08:09:58|06/09/22
+Mair Raden|16838744|16838744@students.southwales.ac.uk|072|099|036|049|57.4|Lower Second-Class|N/A|10:38:36|10/31/22
+Tracy Cressingham|22446824|22446824@students.southwales.ac.uk|018|046|021|100|57.3|Lower Second-Class|N/A|00:18:33|03/11/22
+Seward Rawcliffe|02614409|02614409@students.southwales.ac.uk|002|098|069|042|57.3|Lower Second-Class|N/A|12:15:56|02/19/22
+Natassia Bearcock|79530335|79530335@students.southwales.ac.uk|031|032|062|073|57.3|Lower Second-Class|N/A|04:39:02|08/20/22
+Kyla Iacobucci|26134557|26134557@students.southwales.ac.uk|001|070|057|065|57.2|Lower Second-Class|N/A|17:59:20|10/18/22
+Malina Kubicka|04535119|04535119@students.southwales.ac.uk|086|037|080|043|57.2|Lower Second-Class|N/A|17:47:02|04/26/22
+Terry Broomhead|25211167|25211167@students.southwales.ac.uk|015|018|089|063|57|Lower Second-Class|N/A|06:10:13|08/18/22
+Danyette Sabatier|62730745|62730745@students.southwales.ac.uk|007|047|067|067|57|Lower Second-Class|N/A|05:58:48|10/18/22
+Nestor MacRedmond|13296805|13296805@students.southwales.ac.uk|059|068|025|075|57|Lower Second-Class|N/A|04:01:19|03/04/22
+Tedie Nafziger|05661619|05661619@students.southwales.ac.uk|090|089|039|046|56.9|Lower Second-Class|N/A|16:44:24|01/30/23
+Ellis Oldroyde|41072941|41072941@students.southwales.ac.uk|072|049|086|035|56.8|Lower Second-Class|N/A|14:32:25|03/19/22
+Sybilla Pallatina|43065790|43065790@students.southwales.ac.uk|095|014|023|094|56.8|Lower Second-Class|N/A|13:48:02|04/29/22
+Irene Gozzett|32939214|32939214@students.southwales.ac.uk|089|086|005|073|56.8|Lower Second-Class|N/A|04:37:17|08/19/22
+Shelley McPherson|69100901|69100901@students.southwales.ac.uk|022|083|048|059|56.8|Lower Second-Class|N/A|10:43:46|03/27/22
+Aubrey McCurrie|99044322|99044322@students.southwales.ac.uk|018|023|073|071|56.7|Lower Second-Class|N/A|00:55:06|02/24/22
+Chad William|46872794|46872794@students.southwales.ac.uk|071|096|016|064|56.7|Lower Second-Class|N/A|01:13:48|10/25/22
+Claudetta Fairholme|90572904|90572904@students.southwales.ac.uk|042|077|017|080|56.7|Lower Second-Class|N/A|02:19:02|04/05/22
+Orsa Jedraszek|58297797|58297797@students.southwales.ac.uk|021|046|095|042|56.6|Lower Second-Class|N/A|08:42:51|02/17/22
+Brianne Hunston|75391186|75391186@students.southwales.ac.uk|099|009|047|077|56.6|Lower Second-Class|N/A|23:18:46|08/04/22
+Melita Bagnell|83509889|83509889@students.southwales.ac.uk|039|018|069|071|56.6|Lower Second-Class|N/A|12:10:23|11/03/22
+Remington Prall|27035478|27035478@students.southwales.ac.uk|023|089|031|068|56.6|Lower Second-Class|N/A|18:19:33|11/23/22
+Robinette Sammut|06721025|06721025@students.southwales.ac.uk|086|093|030|051|56.6|Lower Second-Class|N/A|08:07:54|11/14/22
+Thorstein Eaklee|51463804|51463804@students.southwales.ac.uk|032|069|057|056|56.5|Lower Second-Class|N/A|05:35:04|12/15/22
+Giraldo Heiss|33784618|33784618@students.southwales.ac.uk|067|049|060|055|56.5|Lower Second-Class|N/A|15:53:26|09/13/22
+Valeda Ticic|76864360|76864360@students.southwales.ac.uk|080|024|051|071|56.5|Lower Second-Class|N/A|23:17:07|11/05/22
+Jilli Ginnane|34655860|34655860@students.southwales.ac.uk|074|096|083|012|56.3|Lower Second-Class|N/A|01:33:47|06/30/22
+Bab Rekes|20679926|20679926@students.southwales.ac.uk|045|035|036|085|56.3|Lower Second-Class|N/A|19:46:14|02/24/22
+Vin Enefer|23566971|23566971@students.southwales.ac.uk|045|036|050|074|56.3|Lower Second-Class|N/A|09:20:43|04/28/22
+De witt Karleman|75792617|75792617@students.southwales.ac.uk|093|056|026|070|56.3|Lower Second-Class|N/A|20:12:38|10/16/22
+Willdon Sayburn|14587477|14587477@students.southwales.ac.uk|069|062|050|055|56.3|Lower Second-Class|N/A|07:35:45|01/22/23
+Tisha Moynihan|30290260|30290260@students.southwales.ac.uk|017|033|044|087|56.3|Lower Second-Class|N/A|08:53:08|06/02/22
+Judi Cominoli|15924511|15924511@students.southwales.ac.uk|004|043|092|049|56.2|Lower Second-Class|N/A|16:27:37|09/14/22
+Mic Courtin|73850643|73850643@students.southwales.ac.uk|047|015|075|065|56.2|Lower Second-Class|N/A|13:21:48|11/18/22
+Jackelyn Davidy|12826505|12826505@students.southwales.ac.uk|089|045|031|072|56|Lower Second-Class|N/A|17:49:15|06/26/22
+Leonardo Gianninotti|80214006|80214006@students.southwales.ac.uk|082|065|036|060|56|Lower Second-Class|N/A|23:33:43|04/24/22
+Cynthy Spenton|14127419|14127419@students.southwales.ac.uk|007|086|087|030|56|Lower Second-Class|N/A|08:12:24|09/27/22
+Odele Gerrish|85471830|85471830@students.southwales.ac.uk|014|005|065|085|55.9|Lower Second-Class|N/A|02:36:51|10/25/22
+Jonie Girardot|90565898|90565898@students.southwales.ac.uk|022|031|037|091|55.9|Lower Second-Class|N/A|15:52:17|08/16/22
+Marcel Bramall|08942162|08942162@students.southwales.ac.uk|056|032|014|099|55.8|Lower Second-Class|N/A|21:26:04|01/24/23
+Johnnie Standingford|67033230|67033230@students.southwales.ac.uk|072|086|035|052|55.7|Lower Second-Class|N/A|15:52:13|12/04/22
+Ginnie Sidebotton|46913415|46913415@students.southwales.ac.uk|060|029|034|084|55.6|Lower Second-Class|N/A|10:38:16|06/04/22
+Rita Winders|15788865|15788865@students.southwales.ac.uk|018|072|002|097|55.6|Lower Second-Class|N/A|15:14:34|07/22/22
+Catlaina Penburton|77113620|77113620@students.southwales.ac.uk|067|092|012|067|55.5|Lower Second-Class|N/A|19:04:43|03/05/22
+Randy Reynault|72704078|72704078@students.southwales.ac.uk|070|023|077|052|55.5|Lower Second-Class|N/A|08:47:31|12/06/22
+Skylar Janaszewski|86751941|86751941@students.southwales.ac.uk|063|025|066|061|55.5|Lower Second-Class|N/A|22:47:57|10/07/22
+Rosella Christaeas|16872858|16872858@students.southwales.ac.uk|097|086|047|036|55.4|Lower Second-Class|N/A|13:46:55|05/02/22
+Heidie Mavin|05721034|05721034@students.southwales.ac.uk|061|028|064|061|55.3|Lower Second-Class|N/A|11:35:13|05/11/22
+Shirl Youde|37959904|37959904@students.southwales.ac.uk|089|075|006|074|55.3|Lower Second-Class|N/A|19:24:07|11/27/22
+Roobbie Havik|27056241|27056241@students.southwales.ac.uk|026|085|076|032|55.2|Lower Second-Class|N/A|10:20:16|07/04/22
+Zorah Rubenchik|24798635|24798635@students.southwales.ac.uk|073|091|057|031|55|Lower Second-Class|N/A|13:48:49|05/11/22
+Kip Kobpal|42700346|42700346@students.southwales.ac.uk|023|033|035|089|55|Lower Second-Class|N/A|23:25:36|03/22/22
+Hilliary Sharp|11236515|11236515@students.southwales.ac.uk|005|077|057|055|55|Lower Second-Class|N/A|08:45:13|10/10/22
+Theresita Frome|38483351|38483351@students.southwales.ac.uk|032|010|094|054|55|Lower Second-Class|N/A|20:44:12|09/01/22
+Fax Boundey|97056042|97056042@students.southwales.ac.uk|018|069|090|031|55|Lower Second-Class|N/A|11:04:37|12/09/22
+Andee Cussons|94224720|94224720@students.southwales.ac.uk|023|058|018|089|54.9|Lower Second-Class|N/A|20:18:45|11/06/22
+Elfreda Boyd|32118643|32118643@students.southwales.ac.uk|028|034|040|083|54.8|Lower Second-Class|N/A|01:49:03|07/23/22
+Barris Minthorpe|96580982|96580982@students.southwales.ac.uk|060|083|022|064|54.8|Lower Second-Class|N/A|01:39:37|01/28/23
+Caron Cavan|74882565|74882565@students.southwales.ac.uk|012|019|087|059|54.7|Lower Second-Class|N/A|18:18:53|04/06/22
+Alfonso Arthy|13082601|13082601@students.southwales.ac.uk|027|018|068|070|54.7|Lower Second-Class|N/A|22:18:17|07/24/22
+Karlie Stebles|20085449|20085449@students.southwales.ac.uk|021|011|060|081|54.7|Lower Second-Class|N/A|16:56:10|06/12/22
+Richy Kilgannon|24894581|24894581@students.southwales.ac.uk|043|023|030|092|54.7|Lower Second-Class|N/A|02:28:21|04/26/22
+Linnell Raiston|00557296|00557296@students.southwales.ac.uk|091|042|017|080|54.6|Lower Second-Class|N/A|22:51:57|11/23/22
+Delia Le Pruvost|08932532|08932532@students.southwales.ac.uk|036|040|011|099|54.5|Lower Second-Class|N/A|00:27:26|07/19/22
+Kameko Tibbles|54010945|54010945@students.southwales.ac.uk|091|028|018|086|54.5|Lower Second-Class|N/A|01:40:29|03/04/22
+Irwinn Lycett|59370523|59370523@students.southwales.ac.uk|034|051|055|061|54.5|Lower Second-Class|N/A|17:29:51|01/27/23
+Maurice Jahnig|05762020|05762020@students.southwales.ac.uk|040|058|011|089|54.5|Lower Second-Class|N/A|06:02:01|04/14/22
+Moss Iscowitz|74281819|74281819@students.southwales.ac.uk|051|051|037|070|54.4|Lower Second-Class|N/A|07:57:15|04/23/22
+Jennifer Shearn|85590022|85590022@students.southwales.ac.uk|073|059|071|035|54.4|Lower Second-Class|N/A|16:20:28|06/25/22
+Annabelle Gall|45250688|45250688@students.southwales.ac.uk|002|050|099|036|54.3|Lower Second-Class|N/A|11:37:57|07/18/22
+Creigh Sollom|33133727|33133727@students.southwales.ac.uk|039|027|054|072|54.3|Lower Second-Class|N/A|04:26:54|10/19/22
+Marlowe Burnup|09009277|09009277@students.southwales.ac.uk|073|056|050|052|54.3|Lower Second-Class|N/A|08:45:12|10/19/22
+Ofella Dole|15797403|15797403@students.southwales.ac.uk|090|017|069|053|54.3|Lower Second-Class|N/A|17:56:56|11/29/22
+Charleen Knatt|91038391|91038391@students.southwales.ac.uk|006|090|027|069|54.3|Lower Second-Class|N/A|16:54:26|03/20/22
+Annabell Melton|20697610|20697610@students.southwales.ac.uk|070|059|078|030|54.2|Lower Second-Class|N/A|12:40:39|08/02/22
+Averill Mougin|36627537|36627537@students.southwales.ac.uk|039|053|067|049|54.2|Lower Second-Class|N/A|12:16:16|12/10/22
+Mallissa Benazet|11429979|11429979@students.southwales.ac.uk|057|016|024|095|54.1|Lower Second-Class|N/A|05:22:13|04/16/22
+Korney Whordley|47338997|47338997@students.southwales.ac.uk|066|091|039|044|54.1|Lower Second-Class|N/A|20:30:46|03/02/22
+Paloma Box|41713319|41713319@students.southwales.ac.uk|044|006|051|083|54.1|Lower Second-Class|N/A|06:58:19|01/29/23
+Antonie Hubery|99893379|99893379@students.southwales.ac.uk|022|075|020|077|54|Lower Second-Class|N/A|08:40:02|05/28/22
+Rachael Daville|15143747|15143747@students.southwales.ac.uk|052|083|066|031|54|Lower Second-Class|N/A|07:31:41|08/22/22
+Donnie Werrit|44574883|44574883@students.southwales.ac.uk|030|015|052|081|54|Lower Second-Class|N/A|21:23:52|12/07/22
+Marlow Kersting|55436064|55436064@students.southwales.ac.uk|037|037|031|084|54|Lower Second-Class|N/A|00:53:09|10/30/22
+Lombard Mallya|34399162|34399162@students.southwales.ac.uk|028|032|056|070|54|Lower Second-Class|N/A|19:23:42|01/05/23
+Sigrid Dubery|17202658|17202658@students.southwales.ac.uk|088|016|097|032|53.9|Lower Second-Class|N/A|06:25:34|05/17/22
+Rooney Barron|08867532|08867532@students.southwales.ac.uk|096|044|037|061|53.9|Lower Second-Class|N/A|12:20:42|03/13/22
+Ciro McReedy|15348018|15348018@students.southwales.ac.uk|065|095|085|007|53.8|Lower Second-Class|N/A|21:32:53|12/06/22
+Prince De Biaggi|74116510|74116510@students.southwales.ac.uk|072|054|063|042|53.7|Lower Second-Class|N/A|14:59:24|11/22/22
+Park Grundwater|37366343|37366343@students.southwales.ac.uk|085|031|015|086|53.6|Lower Second-Class|N/A|05:11:24|09/12/22
+Abbye Wanderschek|11168446|11168446@students.southwales.ac.uk|053|099|043|039|53.6|Lower Second-Class|N/A|09:40:24|06/09/22
+Marchall Dudden|94826635|94826635@students.southwales.ac.uk|083|063|041|051|53.6|Lower Second-Class|N/A|01:49:46|03/23/22
+Orson Navaro|97166437|97166437@students.southwales.ac.uk|014|071|065|046|53.5|Lower Second-Class|N/A|18:17:57|03/15/22
+Christoper Brandacci|99264488|99264488@students.southwales.ac.uk|073|094|066|019|53.5|Lower Second-Class|N/A|01:46:41|12/28/22
+Sabra Cockings|80469676|80469676@students.southwales.ac.uk|091|039|007|086|53.4|Lower Second-Class|N/A|09:48:05|03/04/22
+Hal Verry|48748524|48748524@students.southwales.ac.uk|076|044|083|030|53.3|Lower Second-Class|N/A|14:30:00|07/04/22
+Aimil Cornuau|90421813|90421813@students.southwales.ac.uk|017|005|062|080|53.3|Lower Second-Class|N/A|11:34:53|09/03/22
+Kali Dodwell|37183126|37183126@students.southwales.ac.uk|013|086|004|084|53.3|Lower Second-Class|N/A|17:13:39|08/13/22
+Kyle Alvaro|96276381|96276381@students.southwales.ac.uk|054|002|062|072|53.2|Lower Second-Class|N/A|10:01:31|11/30/22
+Spense Gulliford|61370023|61370023@students.southwales.ac.uk|083|065|057|037|53.2|Lower Second-Class|N/A|03:02:28|10/17/22
+Mia Gauthorpp|03763570|03763570@students.southwales.ac.uk|083|021|085|038|53.2|Lower Second-Class|N/A|07:42:33|08/09/22
+Pavia Rait|43798465|43798465@students.southwales.ac.uk|071|053|046|054|53.1|Lower Second-Class|N/A|19:33:19|05/30/22
+Alric Druett|92687298|92687298@students.southwales.ac.uk|018|081|090|020|53|Lower Second-Class|N/A|22:48:42|11/16/22
+Roxy Baudin|60356665|60356665@students.southwales.ac.uk|049|079|045|047|53|Lower Second-Class|N/A|19:46:07|09/08/22
+June Danielsohn|81725277|81725277@students.southwales.ac.uk|070|069|022|064|53|Lower Second-Class|N/A|06:27:35|12/26/22
+Hewe Anthill|26567121|26567121@students.southwales.ac.uk|009|094|024|065|52.9|Lower Second-Class|N/A|08:45:49|11/30/22
+Bettina Notley|73936540|73936540@students.southwales.ac.uk|086|089|032|042|52.8|Lower Second-Class|N/A|23:28:48|03/21/22
+Orella Gladden|64162376|64162376@students.southwales.ac.uk|009|035|071|059|52.8|Lower Second-Class|N/A|09:54:44|07/02/22
+Harp Filler|29741357|29741357@students.southwales.ac.uk|068|009|070|058|52.8|Lower Second-Class|N/A|13:27:02|04/14/22
+Jo Ruhben|00477637|00477637@students.southwales.ac.uk|029|064|065|044|52.8|Lower Second-Class|N/A|08:30:43|08/22/22
+Ashbey Gregoli|52141815|52141815@students.southwales.ac.uk|003|078|040|062|52.7|Lower Second-Class|N/A|06:05:03|12/06/22
+Evey Speir|91776576|91776576@students.southwales.ac.uk|059|014|076|053|52.7|Lower Second-Class|N/A|09:54:19|01/31/22
+Abner Bennis|02325376|02325376@students.southwales.ac.uk|045|091|044|042|52.7|Lower Second-Class|N/A|02:44:36|01/26/23
+Maxine Winspear|28053163|28053163@students.southwales.ac.uk|022|005|081|063|52.7|Lower Second-Class|N/A|03:33:57|02/08/22
+Natty Marthen|07951733|07951733@students.southwales.ac.uk|035|007|078|061|52.7|Lower Second-Class|N/A|15:58:17|06/30/22
+Earvin Odcroft|11389891|11389891@students.southwales.ac.uk|019|082|089|019|52.6|Lower Second-Class|N/A|19:07:30|06/05/22
+Huntington Audritt|36294481|36294481@students.southwales.ac.uk|064|049|052|052|52.6|Lower Second-Class|N/A|21:37:56|11/22/22
+Debor Martynka|45146953|45146953@students.southwales.ac.uk|051|005|076|059|52.5|Lower Second-Class|N/A|14:34:52|05/01/22
+Carrie Stripp|42866894|42866894@students.southwales.ac.uk|032|036|059|061|52.5|Lower Second-Class|N/A|21:00:04|11/01/22
+Noel Humbie|62329540|62329540@students.southwales.ac.uk|087|087|029|044|52.4|Lower Second-Class|N/A|01:23:37|03/10/22
+Randa Else|62104834|62104834@students.southwales.ac.uk|075|042|083|029|52.4|Lower Second-Class|N/A|17:53:16|06/26/22
+Arri Aspenlon|34518833|34518833@students.southwales.ac.uk|085|071|079|015|52.4|Lower Second-Class|N/A|07:28:28|09/06/22
+Nicoli Filde|40493591|40493591@students.southwales.ac.uk|095|023|046|061|52.3|Lower Second-Class|N/A|14:52:57|03/28/22
+Raimondo von Nassau|16015048|16015048@students.southwales.ac.uk|025|057|020|081|52.3|Lower Second-Class|N/A|20:38:10|04/06/22
+Fannie Ackerley|29385775|29385775@students.southwales.ac.uk|077|041|093|021|52.2|Lower Second-Class|N/A|13:49:17|05/07/22
+Brigitte Pankhurst.|84760553|84760553@students.southwales.ac.uk|033|039|094|032|52.1|Lower Second-Class|N/A|18:04:51|12/03/22
+Roberto Hamshere|96952214|96952214@students.southwales.ac.uk|064|057|065|037|52.1|Lower Second-Class|N/A|18:46:33|01/01/23
+Meara Banham|62210946|62210946@students.southwales.ac.uk|081|087|074|011|52.1|Lower Second-Class|N/A|04:51:45|12/11/22
+Rolph Mussetti|92265742|92265742@students.southwales.ac.uk|033|074|069|033|52|Lower Second-Class|N/A|17:44:05|11/06/22
+Harcourt Allatt|43142033|43142033@students.southwales.ac.uk|036|046|088|032|52|Lower Second-Class|N/A|07:21:46|12/03/22
+Mariellen Giral|69954548|69954548@students.southwales.ac.uk|034|056|086|029|52|Lower Second-Class|N/A|03:40:57|08/07/22
+Pietra Funcheon|62760331|62760331@students.southwales.ac.uk|082|015|073|047|51.9|Lower Second-Class|N/A|07:31:52|09/21/22
+Franklyn Rieger|77470882|77470882@students.southwales.ac.uk|040|070|034|059|51.8|Lower Second-Class|N/A|03:16:21|06/26/22
+Pavia Lydon|75427779|75427779@students.southwales.ac.uk|087|050|061|037|51.8|Lower Second-Class|N/A|12:08:28|04/10/22
+Massimo Bethune|69140623|69140623@students.southwales.ac.uk|008|013|028|100|51.8|Lower Second-Class|N/A|13:19:41|10/31/22
+Leticia Backson|47364739|47364739@students.southwales.ac.uk|093|035|093|019|51.8|Lower Second-Class|N/A|05:54:17|03/27/22
+Mona Crilly|95568826|95568826@students.southwales.ac.uk|053|023|065|056|51.8|Lower Second-Class|N/A|20:49:34|12/12/22
+Marvin Gilliatt|78828006|78828006@students.southwales.ac.uk|011|079|088|021|51.7|Lower Second-Class|N/A|00:49:57|11/06/22
+Art Fist|55928814|55928814@students.southwales.ac.uk|014|002|093|055|51.7|Lower Second-Class|N/A|06:16:55|05/25/22
+Helaine Lerner|84618337|84618337@students.southwales.ac.uk|078|027|063|049|51.7|Lower Second-Class|N/A|01:07:20|06/21/22
+Hedwig Cockburn|77051084|77051084@students.southwales.ac.uk|030|033|039|076|51.7|Lower Second-Class|N/A|08:12:20|11/04/22
+Eldin Britian|14149080|14149080@students.southwales.ac.uk|042|054|062|045|51.6|Lower Second-Class|N/A|12:01:31|08/27/22
+Giavani Rzehor|27758888|27758888@students.southwales.ac.uk|040|051|070|041|51.6|Lower Second-Class|N/A|20:44:20|10/29/22
+Angelica Wytchard|93242854|93242854@students.southwales.ac.uk|082|095|021|045|51.5|Lower Second-Class|N/A|02:44:49|10/26/22
+Portia Hannis|57381409|57381409@students.southwales.ac.uk|091|041|022|069|51.5|Lower Second-Class|N/A|12:18:13|11/13/22
+Milzie Abramcik|76120127|76120127@students.southwales.ac.uk|023|089|054|038|51.5|Lower Second-Class|N/A|07:57:40|03/13/22
+Tull Stemson|35197773|35197773@students.southwales.ac.uk|005|070|067|042|51.4|Lower Second-Class|N/A|07:57:23|04/23/22
+Cameron Sussems|67773049|67773049@students.southwales.ac.uk|090|072|044|037|51.4|Lower Second-Class|N/A|00:24:52|12/06/22
+Brockie Corneljes|64962972|64962972@students.southwales.ac.uk|068|003|088|044|51.4|Lower Second-Class|N/A|09:24:38|04/28/22
+Filmer Ivantsov|61129365|61129365@students.southwales.ac.uk|050|029|066|052|51.4|Lower Second-Class|N/A|18:41:47|07/20/22
+Saundra Kuschel|33051441|33051441@students.southwales.ac.uk|033|092|083|012|51.4|Lower Second-Class|N/A|13:49:48|02/09/22
+Jillana Francke|84445217|84445217@students.southwales.ac.uk|054|093|034|043|51.4|Lower Second-Class|N/A|12:22:48|09/08/22
+Corbett Hacket|03785363|03785363@students.southwales.ac.uk|005|009|062|076|51.3|Lower Second-Class|N/A|22:00:24|01/12/23
+Godfry MacCrann|59945463|59945463@students.southwales.ac.uk|006|061|079|037|51.3|Lower Second-Class|N/A|00:48:15|12/17/22
+Paul Conor|34623248|34623248@students.southwales.ac.uk|042|028|013|094|51.3|Lower Second-Class|N/A|17:44:05|11/19/22
+Rochester Luto|08821915|08821915@students.southwales.ac.uk|063|080|066|023|51.3|Lower Second-Class|N/A|10:13:57|07/03/22
+Chevalier Bettaney|27754503|27754503@students.southwales.ac.uk|096|019|001|094|51.3|Lower Second-Class|N/A|22:38:53|04/29/22
+Daniella Tindall|09601998|09601998@students.southwales.ac.uk|042|093|064|023|51.2|Lower Second-Class|N/A|09:06:39|06/25/22
+Lavina Abelwhite|53487922|53487922@students.southwales.ac.uk|069|023|028|078|51.1|Lower Second-Class|N/A|00:05:32|09/24/22
+Angelico McPherson|73637163|73637163@students.southwales.ac.uk|036|030|045|070|51.1|Lower Second-Class|N/A|11:10:02|12/07/22
+Roze Endle|71074441|71074441@students.southwales.ac.uk|000|027|067|064|51.1|Lower Second-Class|N/A|23:50:26|09/16/22
+Giraud Tasker|41064620|41064620@students.southwales.ac.uk|006|091|073|026|51.1|Lower Second-Class|N/A|04:57:35|07/23/22
+Bride Hurch|97001564|97001564@students.southwales.ac.uk|069|024|058|055|51.1|Lower Second-Class|N/A|22:30:43|02/06/22
+Rheba Cakebread|83303662|83303662@students.southwales.ac.uk|062|074|015|064|51.1|Lower Second-Class|N/A|10:27:47|12/23/22
+Nessa Dassindale|78277792|78277792@students.southwales.ac.uk|023|085|011|071|51|Lower Second-Class|N/A|11:42:20|11/26/22
+Maria Barltrop|39136309|39136309@students.southwales.ac.uk|026|019|027|091|50.9|Lower Second-Class|N/A|16:15:40|02/23/22
+Janith Skipperbottom|08246311|08246311@students.southwales.ac.uk|009|048|061|055|50.8|Lower Second-Class|N/A|07:24:45|12/12/22
+Farrell Hawkridge|79516891|79516891@students.southwales.ac.uk|093|067|039|041|50.8|Lower Second-Class|N/A|22:16:38|12/12/22
+Candice Brickwood|88305132|88305132@students.southwales.ac.uk|061|088|034|042|50.7|Lower Second-Class|N/A|01:46:04|11/03/22
+Dalis Rangeley|81076090|81076090@students.southwales.ac.uk|084|080|065|017|50.7|Lower Second-Class|N/A|07:28:01|04/21/22
+Joane Meynell|37880465|37880465@students.southwales.ac.uk|084|007|004|099|50.6|Lower Second-Class|N/A|12:56:23|12/13/22
+Clementius Gammage|00087888|00087888@students.southwales.ac.uk|033|052|011|084|50.6|Lower Second-Class|N/A|15:35:36|08/17/22
+Venus Garvie|23930257|23930257@students.southwales.ac.uk|012|059|001|093|50.5|Lower Second-Class|N/A|11:43:48|02/01/22
+Gayla Eversley|11851806|11851806@students.southwales.ac.uk|009|027|091|042|50.4|Lower Second-Class|N/A|14:35:12|01/24/23
+Martha Dovidian|09544062|09544062@students.southwales.ac.uk|002|007|093|052|50.3|Lower Second-Class|N/A|21:31:32|11/18/22
+Corny Bruntje|15902115|15902115@students.southwales.ac.uk|053|033|060|051|50.3|Lower Second-Class|N/A|06:33:16|05/18/22
+Sigismond Darkin|82829027|82829027@students.southwales.ac.uk|040|077|071|024|50.3|Lower Second-Class|N/A|08:00:32|05/06/22
+Veradis Coning|64339008|64339008@students.southwales.ac.uk|013|093|024|058|50.3|Lower Second-Class|N/A|12:52:13|09/23/22
+Yul Stonier|55440627|55440627@students.southwales.ac.uk|066|087|017|053|50.3|Lower Second-Class|N/A|15:37:50|02/16/22
+Audrey Scogin|17457687|17457687@students.southwales.ac.uk|017|018|027|092|50.2|Lower Second-Class|N/A|13:20:46|01/31/22
+Babs Cadwell|61698834|61698834@students.southwales.ac.uk|023|055|023|075|50.2|Lower Second-Class|N/A|19:06:23|06/02/22
+Isiahi Yeaman|68178586|68178586@students.southwales.ac.uk|033|077|018|065|50.1|Lower Second-Class|N/A|00:07:19|08/25/22
+Jone Hamblin|60362758|60362758@students.southwales.ac.uk|073|048|088|017|50.1|Lower Second-Class|N/A|13:45:18|01/09/23
+Nola Tuberfield|44768057|44768057@students.southwales.ac.uk|021|041|066|050|50.1|Lower Second-Class|N/A|22:05:45|06/22/22
+Valdemar Bonnier|37356889|37356889@students.southwales.ac.uk|050|039|019|079|50.1|Lower Second-Class|N/A|08:23:48|01/14/23
+Georgianne Dymoke|87008558|87008558@students.southwales.ac.uk|048|078|007|069|50.1|Lower Second-Class|N/A|23:06:08|06/06/22
+Babbie Esp|29583178|29583178@students.southwales.ac.uk|047|045|029|069|50|Lower Second-Class|N/A|17:17:46|12/15/22
+Darill Ratter|60590662|60590662@students.southwales.ac.uk|099|047|014|066|49.9|Third Class|N/A|16:39:29|03/09/22
+Delores Ouldred|88785308|88785308@students.southwales.ac.uk|045|072|088|011|49.7|Third Class|N/A|06:44:01|11/17/22
+Hillel Knoller|39799166|39799166@students.southwales.ac.uk|069|007|082|042|49.7|Third Class|N/A|17:58:20|03/16/22
+Clarinda Baszkiewicz|76848198|76848198@students.southwales.ac.uk|034|048|089|025|49.7|Third Class|N/A|04:40:33|05/10/22
+Julieta Timoney|41151313|41151313@students.southwales.ac.uk|075|096|056|015|49.5|Third Class|N/A|02:20:38|12/19/22
+Sayre Tesh|31098650|31098650@students.southwales.ac.uk|034|051|081|029|49.5|Third Class|N/A|09:24:45|09/22/22
+Antone Skevington|18953413|18953413@students.southwales.ac.uk|043|007|083|047|49.4|Third Class|N/A|20:02:32|03/21/22
+Reece Bromage|32454893|32454893@students.southwales.ac.uk|000|064|018|078|49.4|Third Class|N/A|00:15:34|11/03/22
+Clayborn Lyman|09595501|09595501@students.southwales.ac.uk|077|075|034|041|49.3|Third Class|N/A|16:51:09|05/27/22
+Briana MacGray|19152054|19152054@students.southwales.ac.uk|063|042|046|052|49.3|Third Class|N/A|00:39:31|04/06/22
+Daphna Blabie|72248767|72248767@students.southwales.ac.uk|044|023|001|100|49.3|Third Class|N/A|08:40:56|01/24/23
+Evangelin Faughnan|50605052|50605052@students.southwales.ac.uk|079|036|098|012|49.3|Third Class|N/A|10:36:10|07/15/22
+Aloin Varsey|93937775|93937775@students.southwales.ac.uk|052|054|028|062|49.2|Third Class|N/A|01:53:50|01/24/23
+Lesley Divall|29359668|29359668@students.southwales.ac.uk|092|015|014|082|49.2|Third Class|N/A|18:43:09|11/14/22
+Ardisj Vidgeon|38423329|38423329@students.southwales.ac.uk|019|089|038|045|49.1|Third Class|N/A|18:10:05|09/23/22
+Gibb Oland|19033571|19033571@students.southwales.ac.uk|036|067|023|063|49.1|Third Class|N/A|05:43:54|01/05/23
+Dory Arndell|12471743|12471743@students.southwales.ac.uk|030|024|079|044|49.1|Third Class|N/A|21:17:45|06/25/22
+Shay McIlmorow|07312929|07312929@students.southwales.ac.uk|050|016|088|036|49|Third Class|N/A|08:27:09|01/05/23
+Kathryn Bart|42587403|42587403@students.southwales.ac.uk|025|021|081|045|49|Third Class|N/A|20:10:19|11/15/22
+Bealle Segges|39106252|39106252@students.southwales.ac.uk|055|002|017|095|49|Third Class|N/A|18:58:40|09/14/22
+Carlye Dalgarnowch|25308777|25308777@students.southwales.ac.uk|072|068|010|063|49|Third Class|N/A|04:14:35|02/10/22
+Edward Culshew|21456149|21456149@students.southwales.ac.uk|057|098|059|015|49|Third Class|N/A|17:27:00|10/12/22
+Ellyn Flasby|00155257|00155257@students.southwales.ac.uk|032|026|083|039|48.9|Third Class|N/A|02:19:24|11/29/22
+Tiphani Skewis|09541429|09541429@students.southwales.ac.uk|037|094|068|015|48.9|Third Class|N/A|01:43:06|09/17/22
+Annelise Clancey|67279976|67279976@students.southwales.ac.uk|036|064|003|079|48.9|Third Class|N/A|16:05:41|03/28/22
+Dehlia Newarte|20265296|20265296@students.southwales.ac.uk|037|098|069|012|48.8|Third Class|N/A|11:25:41|10/17/22
+Merill Jeschner|56234336|56234336@students.southwales.ac.uk|036|010|016|096|48.8|Third Class|N/A|06:54:00|12/18/22
+Debee Cadreman|74778145|74778145@students.southwales.ac.uk|077|053|060|031|48.7|Third Class|N/A|01:16:38|03/06/22
+Cirstoforo Waller-Bridge|14541683|14541683@students.southwales.ac.uk|070|069|081|009|48.7|Third Class|N/A|22:58:16|10/04/22
+Carolyn Cuttler|86795349|86795349@students.southwales.ac.uk|046|037|093|022|48.7|Third Class|N/A|03:37:47|03/18/22
+Bronny Cumbridge|21522599|21522599@students.southwales.ac.uk|049|009|013|095|48.6|Third Class|N/A|03:14:51|01/20/23
+Pammi Clink|74568034|74568034@students.southwales.ac.uk|040|095|044|031|48.6|Third Class|N/A|14:49:44|05/30/22
+Jerri Keedy|18598831|18598831@students.southwales.ac.uk|061|046|071|030|48.6|Third Class|N/A|12:42:09|11/10/22
+Cordelia Tremmil|74011354|74011354@students.southwales.ac.uk|063|004|082|042|48.5|Third Class|N/A|23:23:34|05/08/22
+Darsie Mulder|13920687|13920687@students.southwales.ac.uk|098|077|023|041|48.5|Third Class|N/A|18:55:36|02/04/22
+Ali Cunnah|25878454|25878454@students.southwales.ac.uk|052|052|096|010|48.4|Third Class|N/A|02:41:46|08/10/22
+Gabie Blackden|63306414|63306414@students.southwales.ac.uk|074|064|058|027|48.4|Third Class|N/A|11:28:29|11/22/22
+Ker Shoosmith|34822328|34822328@students.southwales.ac.uk|084|029|050|048|48.4|Third Class|N/A|04:21:36|09/19/22
+Katheryn Keilty|96565299|96565299@students.southwales.ac.uk|000|064|097|016|48.3|Third Class|N/A|09:55:41|02/02/22
+Cathee Ellerey|86744610|86744610@students.southwales.ac.uk|093|090|014|042|48.3|Third Class|N/A|21:45:42|10/31/22
+Dmitri Kirke|83505661|83505661@students.southwales.ac.uk|085|082|046|024|48.3|Third Class|N/A|09:34:52|02/23/22
+Emalia Haszard|44200076|44200076@students.southwales.ac.uk|067|038|089|018|48.2|Third Class|N/A|22:07:10|01/15/23
+Jory Alden|23132718|23132718@students.southwales.ac.uk|035|028|094|027|48.1|Third Class|N/A|02:49:01|02/17/22
+Conway O'Hartigan|54009488|54009488@students.southwales.ac.uk|008|036|031|077|48.1|Third Class|N/A|17:26:52|10/14/22
+Domenico Livett|40847340|40847340@students.southwales.ac.uk|082|023|095|017|48.1|Third Class|N/A|18:16:31|07/14/22
+Win Rielly|19177668|19177668@students.southwales.ac.uk|000|049|081|035|48.1|Third Class|N/A|20:06:04|09/13/22
+Rancell Hakeworth|05716905|05716905@students.southwales.ac.uk|041|029|086|031|48.1|Third Class|N/A|09:08:24|09/27/22
+Miranda Paskerful|10615797|10615797@students.southwales.ac.uk|054|043|028|064|48|Third Class|N/A|20:18:54|03/18/22
+Aloise Vicent|80755773|80755773@students.southwales.ac.uk|069|023|039|062|48|Third Class|N/A|13:08:00|02/22/22
+Aristotle Vasquez|19727893|19727893@students.southwales.ac.uk|017|049|088|025|47.9|Third Class|N/A|07:37:06|05/08/22
+April Boylin|51338431|51338431@students.southwales.ac.uk|057|002|022|088|47.9|Third Class|N/A|16:23:20|08/17/22
+Chaddy De Bruin|76344505|76344505@students.southwales.ac.uk|012|059|080|027|47.8|Third Class|N/A|03:08:25|12/23/22
+Harriette Waliszek|82888668|82888668@students.southwales.ac.uk|073|053|077|017|47.8|Third Class|N/A|16:43:01|10/22/22
+Penn Kenvin|96260016|96260016@students.southwales.ac.uk|039|096|081|001|47.8|Third Class|N/A|12:44:55|02/08/22
+Nikoletta Lindenfeld|20957485|20957485@students.southwales.ac.uk|076|087|008|051|47.8|Third Class|N/A|11:26:26|09/13/22
+Anni Fowles|54443846|54443846@students.southwales.ac.uk|069|027|054|048|47.7|Third Class|N/A|14:01:18|06/24/22
+Iorgos Cremin|38543432|38543432@students.southwales.ac.uk|001|029|010|097|47.7|Third Class|N/A|10:25:26|10/18/22
+Shandeigh Tweddle|68743609|68743609@students.southwales.ac.uk|054|021|055|054|47.7|Third Class|N/A|05:48:51|04/03/22
+Gilly Figliovanni|88565326|88565326@students.southwales.ac.uk|054|079|027|046|47.7|Third Class|N/A|21:49:22|01/22/23
+Karyl Saffran|11300607|11300607@students.southwales.ac.uk|021|046|033|066|47.6|Third Class|N/A|11:44:09|09/01/22
+Marielle Chainey|13921539|13921539@students.southwales.ac.uk|022|066|015|069|47.5|Third Class|N/A|22:59:48|02/17/22
+Mikaela Steljes|50726464|50726464@students.southwales.ac.uk|097|070|062|013|47.5|Third Class|N/A|04:59:50|02/14/22
+Reggy Gorton|01062705|01062705@students.southwales.ac.uk|028|018|094|032|47.4|Third Class|N/A|00:30:47|05/10/22
+Carr Paprotny|74268162|74268162@students.southwales.ac.uk|026|031|067|046|47.3|Third Class|N/A|19:38:59|08/07/22
+Corey Ritch|73866524|73866524@students.southwales.ac.uk|097|077|034|030|47.3|Third Class|N/A|16:08:17|03/19/22
+Marie Cobello|43700337|43700337@students.southwales.ac.uk|031|038|030|069|47.3|Third Class|N/A|03:08:59|09/17/22
+Hank Blackadder|84902030|84902030@students.southwales.ac.uk|019|052|046|053|47.3|Third Class|N/A|07:59:10|12/28/22
+Lyn Brik|39960127|39960127@students.southwales.ac.uk|047|069|029|050|47.2|Third Class|N/A|22:04:41|05/10/22
+Teddi Killshaw|11992725|11992725@students.southwales.ac.uk|042|045|084|022|47.2|Third Class|N/A|19:52:58|05/19/22
+Duff Becom|18160807|18160807@students.southwales.ac.uk|038|028|075|038|47.1|Third Class|N/A|16:13:15|08/16/22
+Lenora Besnard|46173892|46173892@students.southwales.ac.uk|056|024|057|049|47.1|Third Class|N/A|19:09:11|05/16/22
+Stormy Waber|35809493|35809493@students.southwales.ac.uk|092|095|008|041|47|Third Class|N/A|10:22:51|05/07/22
+Ariel Pettis|40986751|40986751@students.southwales.ac.uk|070|043|070|026|47|Third Class|N/A|16:39:24|02/07/22
+Garret Thumnel|55285824|55285824@students.southwales.ac.uk|046|092|028|039|47|Third Class|N/A|02:37:43|05/31/22
+Zonda Haggith|89004210|89004210@students.southwales.ac.uk|000|080|040|047|46.8|Third Class|N/A|07:53:59|12/17/22
+Bird Weiss|27052195|27052195@students.southwales.ac.uk|020|049|087|022|46.7|Third Class|N/A|01:16:19|11/21/22
+Galvin Garfitt|74879909|74879909@students.southwales.ac.uk|023|043|027|069|46.6|Third Class|N/A|17:16:18|04/19/22
+Curcio Siemon|31572338|31572338@students.southwales.ac.uk|062|021|018|077|46.6|Third Class|N/A|23:32:01|11/22/22
+Loleta O'Shaughnessy|03696489|03696489@students.southwales.ac.uk|046|083|014|053|46.6|Third Class|N/A|17:33:58|10/25/22
+Lindsey Rahl|02473586|02473586@students.southwales.ac.uk|015|088|026|049|46.5|Third Class|N/A|12:19:55|04/15/22
+Libbie Twidell|93844747|93844747@students.southwales.ac.uk|060|083|033|035|46.5|Third Class|N/A|12:42:27|08/08/22
+Cleo L'Archer|07193984|07193984@students.southwales.ac.uk|014|043|068|040|46.4|Third Class|N/A|12:28:14|10/31/22
+Alyosha Auguste|58665768|58665768@students.southwales.ac.uk|030|025|012|087|46.4|Third Class|N/A|15:33:47|05/16/22
+Jonie Alger|89248520|89248520@students.southwales.ac.uk|098|003|028|069|46.4|Third Class|N/A|03:45:39|02/15/22
+Katheryn Hatchman|69303943|69303943@students.southwales.ac.uk|043|031|071|036|46.2|Third Class|N/A|04:09:53|08/18/22
+Linus Heaslip|85835655|85835655@students.southwales.ac.uk|076|073|077|002|46.1|Third Class|N/A|10:27:01|08/03/22
+Hilton Maryska|31255469|31255469@students.southwales.ac.uk|064|011|029|072|46.1|Third Class|N/A|23:23:46|05/22/22
+Olympia Marris|64165815|64165815@students.southwales.ac.uk|025|073|024|054|45.9|Third Class|N/A|12:00:24|11/24/22
+Ekaterina Shotboulte|93203374|93203374@students.southwales.ac.uk|095|048|024|049|45.9|Third Class|N/A|08:36:42|04/12/22
+Lianna Halvosen|97305316|97305316@students.southwales.ac.uk|072|004|058|051|45.8|Third Class|N/A|15:46:35|08/02/22
+Cobby Trumble|20585836|20585836@students.southwales.ac.uk|073|045|069|022|45.8|Third Class|N/A|20:26:19|08/04/22
+Marge Fontaine|38229294|38229294@students.southwales.ac.uk|034|018|041|066|45.7|Third Class|N/A|21:09:59|03/20/22
+Courtnay Klimpt|06626437|06626437@students.southwales.ac.uk|059|005|037|069|45.6|Third Class|N/A|02:34:50|01/12/23
+Taffy Harby|48822874|48822874@students.southwales.ac.uk|025|031|035|066|45.6|Third Class|N/A|14:01:00|08/16/22
+Dolli Corriea|37355913|37355913@students.southwales.ac.uk|002|058|006|080|45.6|Third Class|N/A|06:58:01|07/10/22
+Darla Armsby|13781461|13781461@students.southwales.ac.uk|081|052|029|046|45.6|Third Class|N/A|08:12:26|10/04/22
+Jephthah Pedro|74194244|74194244@students.southwales.ac.uk|091|011|029|064|45.6|Third Class|N/A|17:32:28|11/05/22
+Giulietta Taggett|93154135|93154135@students.southwales.ac.uk|004|073|030|054|45.6|Third Class|N/A|19:53:59|06/18/22
+Tersina Kornyakov|17852626|17852626@students.southwales.ac.uk|017|035|012|083|45.5|Third Class|N/A|12:27:46|11/22/22
+Hillier Imlacke|88549203|88549203@students.southwales.ac.uk|081|044|078|013|45.5|Third Class|N/A|21:35:19|09/17/22
+Millie Orring|03092898|03092898@students.southwales.ac.uk|094|079|025|032|45.5|Third Class|N/A|06:11:59|11/17/22
+Fayth Lovell|84844941|84844941@students.southwales.ac.uk|057|004|050|060|45.5|Third Class|N/A|05:21:15|12/30/22
+Lewiss Southwell|87214881|87214881@students.southwales.ac.uk|000|053|055|046|45.5|Third Class|N/A|11:34:20|07/10/22
+Auria Bonnell|86029714|86029714@students.southwales.ac.uk|037|011|068|048|45.5|Third Class|N/A|06:15:46|12/11/22
+Monti Beebe|07024482|07024482@students.southwales.ac.uk|074|052|068|018|45.4|Third Class|N/A|00:49:25|03/13/22
+Marysa Gelsthorpe|05284650|05284650@students.southwales.ac.uk|049|077|014|052|45.3|Third Class|N/A|00:49:10|12/03/22
+Fanechka Brimmicombe|92572021|92572021@students.southwales.ac.uk|000|091|001|067|45.3|Third Class|N/A|13:50:54|01/19/23
+Keslie Cowthart|20302812|20302812@students.southwales.ac.uk|055|034|043|050|45.2|Third Class|N/A|19:19:52|07/24/22
+Caryl Yurmanovev|21178291|21178291@students.southwales.ac.uk|035|061|037|046|45.2|Third Class|N/A|10:44:32|10/31/22
+Hirsch Macourek|66028916|66028916@students.southwales.ac.uk|098|021|045|044|45.1|Third Class|N/A|02:10:19|11/11/22
+Veronica Showering|86432962|86432962@students.southwales.ac.uk|003|034|089|028|45|Third Class|N/A|12:35:49|10/12/22
+Forester MacNamara|09025560|09025560@students.southwales.ac.uk|067|013|091|021|45|Third Class|N/A|13:00:55|12/29/22
+Glynn Bengefield|19635162|19635162@students.southwales.ac.uk|052|065|061|021|44.9|Third Class|N/A|19:21:03|01/09/23
+Codee Shreeve|97806757|97806757@students.southwales.ac.uk|040|077|070|011|44.8|Third Class|N/A|07:53:46|09/20/22
+Boyd Douthwaite|07063290|07063290@students.southwales.ac.uk|001|019|011|094|44.8|Third Class|N/A|06:09:30|05/26/22
+Forrester Hanton|03495901|03495901@students.southwales.ac.uk|043|016|088|027|44.7|Third Class|N/A|04:17:06|12/06/22
+Harwilll Ridesdale|39808230|39808230@students.southwales.ac.uk|041|019|080|032|44.7|Third Class|N/A|09:59:32|10/11/22
+Garold Cooley|17471487|17471487@students.southwales.ac.uk|029|096|031|033|44.6|Third Class|N/A|06:14:31|05/28/22
+Wood Pizey|75745701|75745701@students.southwales.ac.uk|009|072|013|063|44.4|Third Class|N/A|04:24:15|08/07/22
+Evie Sarfatti|15375843|15375843@students.southwales.ac.uk|069|033|047|042|44.4|Third Class|N/A|09:35:15|04/05/22
+Harvey Tyndall|46653700|46653700@students.southwales.ac.uk|086|071|028|033|44.4|Third Class|N/A|06:07:57|07/05/22
+Aguistin Cella|08385285|08385285@students.southwales.ac.uk|066|062|062|016|44|Third Class|N/A|08:11:12|09/29/22
+Bronnie Thaim|52045763|52045763@students.southwales.ac.uk|077|036|033|048|44|Third Class|N/A|11:58:54|05/07/22
+Karine Stallon|83062159|83062159@students.southwales.ac.uk|065|015|023|069|44|Third Class|N/A|18:04:04|04/20/22
+Bo Saintpierre|02039469|02039469@students.southwales.ac.uk|053|093|052|011|43.9|Third Class|N/A|17:39:57|06/02/22
+Allie MacInnes|17753162|17753162@students.southwales.ac.uk|089|057|036|032|43.9|Third Class|N/A|12:52:42|06/12/22
+Sarajane Duggan|56035500|56035500@students.southwales.ac.uk|086|055|017|048|43.9|Third Class|N/A|15:46:04|05/04/22
+Lothaire Bierton|06272921|06272921@students.southwales.ac.uk|009|057|057|036|43.8|Third Class|N/A|09:00:04|08/20/22
+Gilburt Kinkaid|19959178|19959178@students.southwales.ac.uk|081|068|000|055|43.7|Third Class|N/A|18:16:40|05/11/22
+Adolf Hinkens|02542383|02542383@students.southwales.ac.uk|038|006|025|078|43.7|Third Class|N/A|08:58:52|12/28/22
+Francyne Romaynes|45503276|45503276@students.southwales.ac.uk|017|043|070|031|43.7|Third Class|N/A|13:50:19|12/08/22
+Hyatt Wilstead|07486201|07486201@students.southwales.ac.uk|077|032|037|046|43.6|Third Class|N/A|09:31:25|08/10/22
+Odetta Meas|05064114|05064114@students.southwales.ac.uk|089|052|006|056|43.5|Third Class|N/A|11:20:56|11/12/22
+Ev Wrefford|35057311|35057311@students.southwales.ac.uk|079|003|083|025|43.4|Third Class|N/A|17:39:07|06/02/22
+Holly-anne Treace|92356501|92356501@students.southwales.ac.uk|040|014|046|057|43.4|Third Class|N/A|12:44:30|07/17/22
+Enrica Kaines|29124780|29124780@students.southwales.ac.uk|040|089|004|051|43.4|Third Class|N/A|13:35:42|04/12/22
+Milena Vannar|36322984|36322984@students.southwales.ac.uk|077|021|022|062|43.3|Third Class|N/A|05:25:43|10/23/22
+Ashlen MacKee|85820200|85820200@students.southwales.ac.uk|079|025|076|019|43.3|Third Class|N/A|20:35:07|02/18/22
+Maxie Mayall|42835102|42835102@students.southwales.ac.uk|080|009|026|064|43.2|Third Class|N/A|00:12:15|10/14/22
+Bette Hacquel|29297298|29297298@students.southwales.ac.uk|062|013|016|074|43.2|Third Class|N/A|07:41:51|01/08/23
+Heall Baudasso|94861825|94861825@students.southwales.ac.uk|047|034|052|040|43.1|Third Class|N/A|05:32:20|11/24/22
+Quinn Feckey|36318940|36318940@students.southwales.ac.uk|001|029|092|024|43.1|Third Class|N/A|01:24:28|08/15/22
+Cherise Rehorek|49335283|49335283@students.southwales.ac.uk|007|026|033|068|43|Third Class|N/A|04:18:25|06/25/22
+Wenonah Geck|17653034|17653034@students.southwales.ac.uk|067|062|073|005|43|Third Class|N/A|08:04:51|11/18/22
+Cherish Biasioli|86254376|86254376@students.southwales.ac.uk|048|024|079|024|42.9|Third Class|N/A|14:29:59|02/15/22
+Douglass King|08508120|08508120@students.southwales.ac.uk|010|010|057|057|42.9|Third Class|N/A|20:30:14|01/14/23
+Hayyim Mc Trusty|44204430|44204430@students.southwales.ac.uk|026|039|079|022|42.9|Third Class|N/A|01:26:37|10/03/22
+Daniele Elegood|47201777|47201777@students.southwales.ac.uk|060|047|081|008|42.9|Third Class|N/A|13:57:32|06/09/22
+Alwin Hendrich|74202607|74202607@students.southwales.ac.uk|090|012|098|005|42.8|Third Class|N/A|20:24:19|04/30/22
+Eleanora Tourot|48936956|48936956@students.southwales.ac.uk|065|075|015|042|42.8|Third Class|N/A|17:39:55|08/09/22
+Erna Nice|72317852|72317852@students.southwales.ac.uk|004|089|038|033|42.8|Third Class|N/A|20:15:30|08/15/22
+Binny Willingale|80850549|80850549@students.southwales.ac.uk|080|064|073|000|42.7|Third Class|N/A|07:05:58|01/17/23
+Oliy Haliday|81469660|81469660@students.southwales.ac.uk|089|087|008|035|42.7|Third Class|N/A|14:36:54|04/03/22
+Georgine Scoggan|99035644|99035644@students.southwales.ac.uk|011|052|085|014|42.6|Third Class|N/A|11:22:25|08/16/22
+Tully McVeagh|26725488|26725488@students.southwales.ac.uk|053|033|037|049|42.6|Third Class|N/A|22:28:41|02/25/22
+Eba Dufaur|22884940|22884940@students.southwales.ac.uk|068|011|044|051|42.6|Third Class|N/A|23:32:14|08/28/22
+Cazzie Gidney|26583935|26583935@students.southwales.ac.uk|060|075|061|008|42.5|Third Class|N/A|21:59:52|05/04/22
+Martica Denis|99638214|99638214@students.southwales.ac.uk|002|036|049|051|42.5|Third Class|N/A|20:27:36|02/03/22
+Feliks Vasyutichev|40674745|40674745@students.southwales.ac.uk|071|039|065|020|42.4|Third Class|N/A|15:23:45|04/09/22
+Annmarie Worboy|89165219|89165219@students.southwales.ac.uk|081|032|086|005|42.3|Third Class|N/A|02:39:14|02/14/22
+Maryjo Jurges|50551115|50551115@students.southwales.ac.uk|009|038|050|047|42.3|Third Class|N/A|01:15:07|12/22/22
+Bear Petegree|90934414|90934414@students.southwales.ac.uk|043|077|027|036|42.2|Third Class|N/A|08:12:55|01/19/23
+Hyman Chamberlaine|90197761|90197761@students.southwales.ac.uk|000|050|034|055|42.2|Third Class|N/A|17:44:52|05/23/22
+Ursuline Bischoff|44490298|44490298@students.southwales.ac.uk|038|033|042|048|42.2|Third Class|N/A|23:08:06|09/25/22
+Maddie Prandin|52514840|52514840@students.southwales.ac.uk|043|099|055|004|42.2|Third Class|N/A|11:50:27|12/19/22
+Lamont Muddiman|39276203|39276203@students.southwales.ac.uk|041|065|077|005|42.2|Third Class|N/A|15:32:39|04/18/22
+Vilhelmina McClymont|50632115|50632115@students.southwales.ac.uk|004|070|083|007|42.1|Third Class|N/A|17:27:29|07/16/22
+Cornelle Copnall|68828853|68828853@students.southwales.ac.uk|005|028|056|048|42.1|Third Class|N/A|12:27:09|05/22/22
+Aguistin Leroux|06269535|06269535@students.southwales.ac.uk|066|091|052|004|42|Third Class|N/A|16:21:24|12/23/22
+Herrick Wapplington|57172060|57172060@students.southwales.ac.uk|022|035|049|045|41.9|Third Class|N/A|08:31:11|12/17/22
+Loutitia Cawdery|79919125|79919125@students.southwales.ac.uk|064|085|019|032|41.9|Third Class|N/A|01:56:04|05/12/22
+Osbert Syratt|01929628|01929628@students.southwales.ac.uk|010|079|033|038|41.9|Third Class|N/A|00:43:49|07/09/22
+Mary Ionnidis|33045728|33045728@students.southwales.ac.uk|040|009|028|069|41.8|Third Class|N/A|03:50:18|04/08/22
+Brennen Griffin|01294604|01294604@students.southwales.ac.uk|086|017|082|013|41.8|Third Class|N/A|08:38:29|11/10/22
+Dar Cooney|55016705|55016705@students.southwales.ac.uk|057|019|009|074|41.8|Third Class|N/A|01:31:51|10/20/22
+Brennen MacCague|65789221|65789221@students.southwales.ac.uk|095|062|065|001|41.8|Third Class|N/A|02:57:05|10/11/22
+Issiah Chorlton|55106575|55106575@students.southwales.ac.uk|085|042|080|002|41.7|Third Class|N/A|08:42:57|02/26/22
+Prissie Cloney|26236937|26236937@students.southwales.ac.uk|098|062|037|021|41.7|Third Class|N/A|21:07:29|07/30/22
+Anstice Poyntz|71641137|71641137@students.southwales.ac.uk|002|021|079|034|41.7|Third Class|N/A|23:22:41|11/28/22
+Lionello Cerro|15687703|15687703@students.southwales.ac.uk|030|046|029|052|41.7|Third Class|N/A|09:28:38|06/13/22
+Roby Petyanin|97364929|97364929@students.southwales.ac.uk|055|028|050|039|41.7|Third Class|N/A|03:50:12|09/25/22
+Pauly Kembery|88415627|88415627@students.southwales.ac.uk|040|003|081|032|41.7|Third Class|N/A|14:44:21|07/28/22
+Goober Hendriks|44908825|44908825@students.southwales.ac.uk|002|080|019|049|41.5|Third Class|N/A|07:44:55|07/11/22
+Alma Dikels|93520749|93520749@students.southwales.ac.uk|085|040|030|040|41.5|Third Class|N/A|14:23:00|08/05/22
+Vevay Pallister|97631279|97631279@students.southwales.ac.uk|063|028|028|053|41.5|Third Class|N/A|05:27:25|05/23/22
+Aridatha Ellerington|00973321|00973321@students.southwales.ac.uk|018|096|063|004|41.5|Third Class|N/A|04:13:22|10/26/22
+Carling Rustman|75659213|75659213@students.southwales.ac.uk|011|083|023|042|41.4|Third Class|N/A|09:34:58|10/01/22
+Hoyt Trouncer|21059272|21059272@students.southwales.ac.uk|012|096|034|027|41.4|Third Class|N/A|02:36:59|07/29/22
+Dasha Ollive|41138866|41138866@students.southwales.ac.uk|018|021|043|056|41.3|Third Class|N/A|16:04:50|03/23/22
+Opal Lumox|72772717|72772717@students.southwales.ac.uk|063|035|028|049|41.3|Third Class|N/A|09:52:12|12/27/22
+Emalia Arthan|09083508|09083508@students.southwales.ac.uk|026|000|045|063|41.3|Third Class|N/A|05:01:24|08/19/22
+Ricca Wimbridge|29204844|29204844@students.southwales.ac.uk|057|061|034|033|41.3|Third Class|N/A|05:38:55|06/28/22
+Morly Macbane|91906604|91906604@students.southwales.ac.uk|035|086|059|007|41.2|Third Class|N/A|13:06:25|04/17/22
+Mara Lote|29052884|29052884@students.southwales.ac.uk|096|083|006|033|41.2|Third Class|N/A|17:07:15|01/02/23
+Loretta Battyll|61768775|61768775@students.southwales.ac.uk|051|008|079|027|41.2|Third Class|N/A|08:53:12|07/26/22
+Juieta Packham|28445803|28445803@students.southwales.ac.uk|072|070|061|004|41.1|Third Class|N/A|19:59:37|12/31/22
+Riley Van Cassel|81436004|81436004@students.southwales.ac.uk|046|097|029|021|41.1|Third Class|N/A|06:34:30|12/24/22
+Holly Jedrzejewsky|55739177|55739177@students.southwales.ac.uk|036|048|042|038|41|Third Class|N/A|04:33:12|11/11/22
+Addie Lockey|14992084|14992084@students.southwales.ac.uk|042|063|075|004|40.9|Third Class|N/A|19:09:56|01/31/22
+Alick Yeend|98764577|98764577@students.southwales.ac.uk|038|011|067|037|40.9|Third Class|N/A|16:13:06|12/08/22
+Melanie Perdue|60596104|60596104@students.southwales.ac.uk|088|026|039|038|40.9|Third Class|N/A|02:11:07|12/04/22
+Leo McLeod|72647346|72647346@students.southwales.ac.uk|010|041|044|046|40.8|Third Class|N/A|01:57:39|03/23/22
+Lorianne Eden|90983221|90983221@students.southwales.ac.uk|084|004|076|022|40.8|Third Class|N/A|08:10:30|03/31/22
+Sean Enga|57006731|57006731@students.southwales.ac.uk|040|079|022|036|40.8|Third Class|N/A|15:43:34|04/05/22
+Dilly Petris|93439415|93439415@students.southwales.ac.uk|058|000|026|068|40.8|Third Class|N/A|03:30:40|02/20/22
+Harrison Cavell|03693862|03693862@students.southwales.ac.uk|029|037|091|008|40.8|Third Class|N/A|23:37:33|01/23/23
+Teriann Fogel|76257734|76257734@students.southwales.ac.uk|074|001|089|016|40.7|Third Class|N/A|20:57:41|06/25/22
+Erhard Coles|94607954|94607954@students.southwales.ac.uk|039|071|030|034|40.7|Third Class|N/A|16:15:30|12/15/22
+Cordelie Scotland|80905536|80905536@students.southwales.ac.uk|004|032|049|048|40.7|Third Class|N/A|10:43:29|01/12/23
+Merline Trewinnard|47034951|47034951@students.southwales.ac.uk|013|040|092|009|40.5|Third Class|N/A|07:12:50|03/25/22
+Callean Kleis|50789327|50789327@students.southwales.ac.uk|035|004|098|017|40.5|Third Class|N/A|07:42:28|12/21/22
+Renata Keohane|03606126|03606126@students.southwales.ac.uk|010|029|028|063|40.4|Third Class|N/A|15:20:52|11/14/22
+Alexandre Wemes|38193104|38193104@students.southwales.ac.uk|099|005|042|042|40.3|Third Class|N/A|17:22:19|03/14/22
+Thaine Lochhead|43220500|43220500@students.southwales.ac.uk|052|004|001|085|40.3|Third Class|N/A|08:14:09|06/08/22
+Alexandr Lambricht|08200183|08200183@students.southwales.ac.uk|074|018|075|017|40.3|Third Class|N/A|03:08:28|01/23/23
+Siouxie Paullin|57042525|57042525@students.southwales.ac.uk|054|001|081|026|40.3|Third Class|N/A|07:52:37|05/17/22
+Lilia Bozward|05610903|05610903@students.southwales.ac.uk|060|061|036|028|40.2|Third Class|N/A|13:06:34|06/09/22
+Banky Dory|25053604|25053604@students.southwales.ac.uk|015|096|018|035|40.1|Third Class|N/A|23:22:45|02/05/22
+Shaylyn Eldredge|69723531|69723531@students.southwales.ac.uk|030|035|075|019|40.1|Third Class|N/A|02:02:58|09/21/22
+Andie Goodluck|31876815|31876815@students.southwales.ac.uk|015|054|042|038|40.1|Third Class|N/A|23:47:23|09/22/22
+Aleen Goodacre|19807287|19807287@students.southwales.ac.uk|087|001|044|045|40.1|Third Class|N/A|11:34:34|02/02/22
+Julie Roberts|54789090|54789090@students.southwales.ac.uk|054|076|065|N/A|40.1|Third Class|74.750000|18:45:49|02/01/23
+Halie Dict|51846886|51846886@students.southwales.ac.uk|038|079|052|012|40|Third Class|N/A|23:48:19|01/13/23
+Rog Craddock|75150330|75150330@students.southwales.ac.uk|033|067|052|019|39.9|Fail|N/A|13:18:02|04/03/22
+Emmye Isaaksohn|72255484|72255484@students.southwales.ac.uk|010|014|000|090|39.8|Fail|N/A|07:53:43|04/01/22
+Fallon Rymill|33067741|33067741@students.southwales.ac.uk|003|035|075|025|39.8|Fail|N/A|17:26:19|12/24/22
+Sholom Ferrer|96008773|96008773@students.southwales.ac.uk|064|043|024|044|39.8|Fail|N/A|12:49:27|01/19/23
+Yardley Hakes|64982545|64982545@students.southwales.ac.uk|025|034|073|021|39.6|Fail|N/A|02:26:54|12/27/22
+Jobyna Deighan|97760068|97760068@students.southwales.ac.uk|052|091|035|014|39.5|Fail|N/A|00:48:54|09/03/22
+Cesare Sperring|90279967|90279967@students.southwales.ac.uk|069|029|072|013|39.5|Fail|N/A|23:31:27|01/29/23
+Glyn Pavett|72537972|72537972@students.southwales.ac.uk|025|066|018|046|39.5|Fail|N/A|23:25:15|01/27/23
+Des Oakeby|23649931|23649931@students.southwales.ac.uk|077|062|056|006|39.3|Fail|N/A|03:01:43|10/25/22
+Gerty Verheyden|51085908|51085908@students.southwales.ac.uk|038|096|050|003|39.2|Fail|N/A|08:34:15|05/12/22
+Consuelo Tandy|48419420|48419420@students.southwales.ac.uk|075|075|018|028|39.1|Fail|N/A|20:57:12|12/18/22
+Rafael Dingle|31679182|31679182@students.southwales.ac.uk|092|029|059|016|39.1|Fail|N/A|13:00:11|03/01/22
+Mark Adams|30027456|30027456@students.southwales.ac.uk|065|065|065|N/A|39|Fail|77.500000|18:45:29|02/01/23
+Venita Ward|94164917|94164917@students.southwales.ac.uk|080|071|021|026|38.9|Fail|N/A|07:07:52|11/01/22
+Jess Loughman|18973516|18973516@students.southwales.ac.uk|049|030|058|026|38.7|Fail|N/A|04:23:17|04/19/22
+Hoyt Cammack|58866505|58866505@students.southwales.ac.uk|086|039|061|010|38.7|Fail|N/A|01:20:04|02/06/22
+Moritz Welsby|27076411|27076411@students.southwales.ac.uk|043|023|097|001|38.4|Fail|N/A|12:36:32|04/30/22
+Sheelagh England|10346140|10346140@students.southwales.ac.uk|062|072|018|031|38.4|Fail|N/A|20:57:37|07/05/22
+Emmet Dederick|57247903|57247903@students.southwales.ac.uk|046|028|006|066|38.4|Fail|N/A|08:48:35|03/25/22
+Vachel Grono|25620132|25620132@students.southwales.ac.uk|025|051|072|010|38.3|Fail|N/A|20:50:24|10/16/22
+Rennie Gresswood|13770205|13770205@students.southwales.ac.uk|022|043|009|062|38.3|Fail|N/A|21:52:06|10/18/22
+Blair Exelby|31770895|31770895@students.southwales.ac.uk|097|040|039|022|38.2|Fail|N/A|03:10:47|08/01/22
+Mirelle Portlock|03851168|03851168@students.southwales.ac.uk|084|034|029|035|37.9|Fail|N/A|00:39:20|03/29/22
+Justis Patchett|04419912|04419912@students.southwales.ac.uk|075|038|013|047|37.8|Fail|N/A|21:19:16|06/08/22
+Morty Stacey|10878996|10878996@students.southwales.ac.uk|074|023|078|006|37.8|Fail|N/A|02:12:06|06/02/22
+Genevieve Heindl|27577139|27577139@students.southwales.ac.uk|001|035|041|046|37.8|Fail|N/A|01:31:46|12/15/22
+Packston Kellard|55499192|55499192@students.southwales.ac.uk|068|018|022|052|37.8|Fail|N/A|21:15:25|12/20/22
+Gwyneth Forestall|44614615|44614615@students.southwales.ac.uk|026|052|040|032|37.8|Fail|N/A|13:03:11|04/18/22
+Marla Choppen|03050582|03050582@students.southwales.ac.uk|026|058|052|020|37.8|Fail|N/A|20:10:45|01/11/23
+Esme Robertelli|63080074|63080074@students.southwales.ac.uk|060|005|008|071|37.8|Fail|N/A|02:24:23|08/25/22
+Kameko Thumann|46464158|46464158@students.southwales.ac.uk|043|049|055|018|37.8|Fail|N/A|00:12:04|03/11/22
+Molli Litchfield|68610913|68610913@students.southwales.ac.uk|034|038|053|027|37.7|Fail|N/A|02:50:46|12/22/22
+Bonita Sperwell|21249551|21249551@students.southwales.ac.uk|067|060|003|045|37.6|Fail|N/A|22:15:24|08/19/22
+Kermie Kramer|68113678|68113678@students.southwales.ac.uk|001|057|076|008|37.5|Fail|N/A|22:51:40|10/15/22
+Rori McKew|01188118|01188118@students.southwales.ac.uk|045|039|037|035|37.4|Fail|N/A|01:46:38|09/06/22
+Harland Garnar|64650016|64650016@students.southwales.ac.uk|062|049|018|040|37.4|Fail|N/A|01:47:21|10/04/22
+Enrika Blaxland|65434371|65434371@students.southwales.ac.uk|063|054|050|013|37.3|Fail|N/A|22:31:03|11/18/22
+Jolee Bigglestone|04239123|04239123@students.southwales.ac.uk|039|057|017|042|37.2|Fail|N/A|11:50:28|07/01/22
+Bondie Kibble|31213057|31213057@students.southwales.ac.uk|072|006|052|033|37.2|Fail|N/A|00:20:18|03/08/22
+Berte Stiell|20163723|20163723@students.southwales.ac.uk|016|007|011|077|37.1|Fail|N/A|15:46:59|07/24/22
+Stavro Draisey|18928905|18928905@students.southwales.ac.uk|047|009|095|005|37|Fail|N/A|21:46:30|12/20/22
+Boony Cadigan|66021555|66021555@students.southwales.ac.uk|046|087|006|033|37|Fail|N/A|14:43:09|11/10/22
+Sharla MacGorrie|62529715|62529715@students.southwales.ac.uk|089|027|002|055|36.9|Fail|N/A|12:01:17|08/08/22
+Carmencita Natte|46532307|46532307@students.southwales.ac.uk|099|037|044|016|36.9|Fail|N/A|05:39:18|08/22/22
+Rosey Nell|45632132|45632132@students.southwales.ac.uk|076|065|054|N/A|36.8|Fail|83.000000|18:46:18|02/01/23
+Had Burras|26763772|26763772@students.southwales.ac.uk|035|006|043|048|36.8|Fail|N/A|20:57:17|09/21/22
+Gael Knotton|13554057|13554057@students.southwales.ac.uk|006|033|075|017|36.5|Fail|N/A|14:21:25|09/13/22
+Cilka Riddlesden|61537983|61537983@students.southwales.ac.uk|083|049|056|004|36.5|Fail|N/A|01:18:19|05/22/22
+Devan Kestell|07744276|07744276@students.southwales.ac.uk|061|037|003|055|36.4|Fail|N/A|21:58:00|06/20/22
+Alfonso Orans|72644146|72644146@students.southwales.ac.uk|077|046|029|027|36.4|Fail|N/A|14:36:18|01/19/23
+Barbee Baroche|10220432|10220432@students.southwales.ac.uk|008|056|044|028|36.4|Fail|N/A|14:22:37|07/25/22
+Reinwald Embury|41977751|41977751@students.southwales.ac.uk|077|063|009|033|36.2|Fail|N/A|06:15:12|06/04/22
+Rochelle Hadlee|12497238|12497238@students.southwales.ac.uk|063|048|002|049|36.1|Fail|N/A|17:14:23|01/02/23
+Coraline Enrdigo|94124264|94124264@students.southwales.ac.uk|005|014|093|012|36|Fail|N/A|16:39:31|03/10/22
+Nettie Rastall|15935035|15935035@students.southwales.ac.uk|031|042|033|036|35.8|Fail|N/A|10:13:27|03/19/22
+Berkley Benoix|31592574|31592574@students.southwales.ac.uk|041|098|019|016|35.8|Fail|N/A|09:38:57|08/17/22
+Weston Semerad|79206997|79206997@students.southwales.ac.uk|055|064|045|009|35.4|Fail|N/A|00:45:22|07/18/22
+Fey Lintot|03302298|03302298@students.southwales.ac.uk|032|039|058|017|35.2|Fail|N/A|19:49:15|10/01/22
+Ernst Aggiss|10011970|10011970@students.southwales.ac.uk|047|066|027|023|35.2|Fail|N/A|14:24:37|12/07/22
+Ervin Phidgin|69969560|69969560@students.southwales.ac.uk|025|023|020|055|35.1|Fail|N/A|22:57:00|05/15/22
+Enid Lathom|16611152|16611152@students.southwales.ac.uk|081|040|047|012|35|Fail|N/A|10:16:35|08/03/22
+Riordan Wesgate|36393219|36393219@students.southwales.ac.uk|021|042|072|007|34.9|Fail|N/A|18:41:06|02/18/22
+Arie Cowie|13692268|13692268@students.southwales.ac.uk|080|039|030|025|34.8|Fail|N/A|06:13:23|02/08/22
+Graehme Sides|57907483|57907483@students.southwales.ac.uk|067|073|017|021|34.8|Fail|N/A|16:36:47|11/13/22
+Marylin Ratledge|18969912|18969912@students.southwales.ac.uk|034|025|036|039|34.8|Fail|N/A|07:51:47|03/14/22
+Cally Merrington|60416738|60416738@students.southwales.ac.uk|008|066|068|001|34.8|Fail|N/A|20:50:27|11/03/22
+Christi Voden|60216943|60216943@students.southwales.ac.uk|018|059|036|026|34.8|Fail|N/A|01:00:42|10/09/22
+Laurianne Blunn|43588216|43588216@students.southwales.ac.uk|001|093|007|035|34.8|Fail|N/A|22:12:48|04/05/22
+Andras Warbrick|93503141|93503141@students.southwales.ac.uk|059|028|052|019|34.7|Fail|N/A|00:08:42|12/17/22
+Tersina Conew|37270296|37270296@students.southwales.ac.uk|041|066|030|021|34.7|Fail|N/A|02:08:29|02/24/22
+Thomas Stephens|30048598|30048598@students.southwales.ac.uk|054|065|054|N/A|34.6|Fail|88.500000|14:45:10|02/03/23
+Corliss Liell|76170781|76170781@students.southwales.ac.uk|016|060|015|041|34.5|Fail|N/A|17:09:46|01/14/23
+Cale Demange|29705484|29705484@students.southwales.ac.uk|033|045|010|048|34.5|Fail|N/A|06:12:33|05/03/22
+Fanchon Brickdale|89138590|89138590@students.southwales.ac.uk|012|078|059|N/A|34.5|Fail|88.750000|20:14:36|03/14/22
+Modesta Frunks|56587585|56587585@students.southwales.ac.uk|076|045|037|017|34.5|Fail|N/A|15:02:31|05/17/22
+Gussy Siward|83813965|83813965@students.southwales.ac.uk|072|084|004|023|34.4|Fail|N/A|20:54:35|05/09/22
+Clarine MacPhail|88874478|88874478@students.southwales.ac.uk|087|020|029|032|34.2|Fail|N/A|08:04:58|11/27/22
+Dalt Keets|67135409|67135409@students.southwales.ac.uk|045|036|056|014|34.1|Fail|N/A|21:34:53|12/02/22
+Richart Elmar|21296709|21296709@students.southwales.ac.uk|080|004|083|001|34.1|Fail|N/A|05:34:02|01/20/23
+Lily Walbrun|44022407|44022407@students.southwales.ac.uk|000|062|003|052|34.1|Fail|N/A|03:46:51|07/03/22
+Svend Klimkiewich|78067997|78067997@students.southwales.ac.uk|010|075|056|003|34|Fail|N/A|07:39:25|09/20/22
+Maurice Micallef|01253898|01253898@students.southwales.ac.uk|035|080|023|019|34|Fail|N/A|08:37:38|01/12/23
+Lettie Guille|09754243|09754243@students.southwales.ac.uk|066|059|028|018|34|Fail|N/A|17:49:09|12/12/22
+Alphard O'Neill|97563513|97563513@students.southwales.ac.uk|034|068|035|016|33.9|Fail|N/A|16:05:02|11/27/22
+Nady Hollingsbee|89611905|89611905@students.southwales.ac.uk|047|046|016|038|33.9|Fail|N/A|15:23:19|05/12/22
+Karna MacCheyne|46951177|46951177@students.southwales.ac.uk|031|018|090|N/A|33.7|Fail|90.750000|22:05:31|12/02/22
+Gerry Andreou|36359034|36359034@students.southwales.ac.uk|026|027|024|046|33.6|Fail|N/A|13:51:10|04/19/22
+Glynda Meynell|73352687|73352687@students.southwales.ac.uk|052|000|036|044|33.6|Fail|N/A|04:19:05|07/10/22
+Michelle Luney|00866571|00866571@students.southwales.ac.uk|088|012|061|010|33.5|Fail|N/A|12:55:11|03/02/22
+Margy Kirwan|62373322|62373322@students.southwales.ac.uk|038|067|034|015|33.4|Fail|N/A|20:10:00|09/12/22
+Kyle Caddens|18760697|18760697@students.southwales.ac.uk|097|056|027|011|33.4|Fail|N/A|20:57:27|11/06/22
+Florie Ethington|47906547|47906547@students.southwales.ac.uk|005|019|097|000|33.4|Fail|N/A|23:54:24|12/07/22
+Papageno Iowarch|95681243|95681243@students.southwales.ac.uk|073|041|009|038|33.4|Fail|N/A|20:21:31|05/07/22
+Teador Blunsom|48036803|48036803@students.southwales.ac.uk|047|092|006|021|33.3|Fail|N/A|13:51:25|06/09/22
+Aaron Vennart|37066384|37066384@students.southwales.ac.uk|072|054|028|017|33.2|Fail|N/A|08:42:08|01/11/23
+Bogart Scannell|34056841|34056841@students.southwales.ac.uk|081|030|006|043|33.1|Fail|N/A|16:20:11|04/10/22
+Darcee Layburn|95448784|95448784@students.southwales.ac.uk|025|003|060|030|33.1|Fail|N/A|15:24:28|08/26/22
+Geralda Bentzen|78564160|78564160@students.southwales.ac.uk|071|071|018|016|33.1|Fail|N/A|10:35:47|12/10/22
+Tomkin Joiner|16069256|16069256@students.southwales.ac.uk|098|085|001|015|33.1|Fail|N/A|17:37:48|10/24/22
+Reeta Haimes|85292654|85292654@students.southwales.ac.uk|005|043|033|035|33|Fail|N/A|06:56:26|06/25/22
+Sybila McCloughlin|23093674|23093674@students.southwales.ac.uk|005|093|038|006|32.9|Fail|N/A|05:02:35|08/22/22
+Cassie Deddum|36044786|36044786@students.southwales.ac.uk|084|061|017|018|32.9|Fail|N/A|01:58:00|03/10/22
+Mortie Margerison|16647430|16647430@students.southwales.ac.uk|057|031|023|035|32.8|Fail|N/A|21:18:03|05/07/22
+Kimberli Aikett|84918383|84918383@students.southwales.ac.uk|097|030|010|035|32.7|Fail|N/A|08:01:36|04/07/22
+Tore Goodburn|08749423|08749423@students.southwales.ac.uk|008|088|037|008|32.7|Fail|N/A|08:29:36|03/04/22
+Suzette Outerbridge|59505652|59505652@students.southwales.ac.uk|028|064|017|030|32.7|Fail|N/A|05:52:20|10/14/22
+Blondie Taylour|86010818|86010818@students.southwales.ac.uk|006|005|046|043|32.6|Fail|N/A|13:26:53|02/11/22
+Charmian Chanders|82136416|82136416@students.southwales.ac.uk|092|025|052|007|32.6|Fail|N/A|22:31:51|11/03/22
+Lilith Kupis|17070202|17070202@students.southwales.ac.uk|035|084|021|015|32.6|Fail|N/A|04:06:22|10/31/22
+Gustaf Honywill|27014919|27014919@students.southwales.ac.uk|095|077|013|009|32.4|Fail|N/A|21:37:08|11/17/22
+Penelope Landers|30199692|30199692@students.southwales.ac.uk|011|039|002|057|32.3|Fail|N/A|21:49:18|09/28/22
+Maris Gemson|46522677|46522677@students.southwales.ac.uk|072|008|073|004|32.3|Fail|N/A|15:05:04|05/03/22
+Marlowe Hagard|60226535|60226535@students.southwales.ac.uk|039|057|034|017|32.3|Fail|N/A|16:34:40|04/28/22
+Randal Balhatchet|06978160|06978160@students.southwales.ac.uk|024|021|060|019|32.2|Fail|N/A|20:51:33|04/06/22
+Torre Corthes|46066167|46066167@students.southwales.ac.uk|034|039|026|033|32.2|Fail|N/A|04:28:42|08/28/22
+Olimpia Tute|39758872|39758872@students.southwales.ac.uk|021|085|042|001|32.1|Fail|N/A|06:42:37|01/04/23
+Brinna Portal|65021340|65021340@students.southwales.ac.uk|046|036|034|025|32|Fail|N/A|13:00:14|12/21/22
+Karlis Withnall|36766377|36766377@students.southwales.ac.uk|029|040|006|048|31.9|Fail|N/A|22:01:39|08/22/22
+Arni Chart|62683263|62683263@students.southwales.ac.uk|002|017|003|068|31.7|Fail|N/A|05:23:40|07/15/22
+Sheilakathryn Cheston|10137365|10137365@students.southwales.ac.uk|016|019|058|022|31.6|Fail|N/A|12:57:19|06/23/22
+Geri Guille|63145759|63145759@students.southwales.ac.uk|031|051|060|000|31.3|Fail|N/A|10:39:12|06/27/22
+Paolo Shoubridge|23171694|23171694@students.southwales.ac.uk|040|012|076|005|31.2|Fail|N/A|16:39:57|03/21/22
+Jedd Gamblin|89135470|89135470@students.southwales.ac.uk|000|065|055|004|31.1|Fail|N/A|23:39:10|03/24/22
+Ilka Clinton|40975768|40975768@students.southwales.ac.uk|030|042|027|029|31.1|Fail|N/A|04:51:03|01/26/23
+Gusty O'Duane|53138831|53138831@students.southwales.ac.uk|073|016|028|030|30.9|Fail|N/A|10:41:55|03/23/22
+Parnell Muddimer|16509949|16509949@students.southwales.ac.uk|055|032|042|016|30.9|Fail|N/A|11:48:58|05/14/22
+Loree Jouhning|20149034|20149034@students.southwales.ac.uk|018|058|001|043|30.9|Fail|N/A|22:32:45|08/27/22
+Ondrea Silverstone|69332969|69332969@students.southwales.ac.uk|085|024|053|004|30.8|Fail|N/A|02:37:47|06/27/22
+Tallulah Rountree|30321311|30321311@students.southwales.ac.uk|027|004|047|033|30.8|Fail|N/A|05:14:24|10/29/22
+Kristina Meardon|09003011|09003011@students.southwales.ac.uk|002|021|009|059|30.7|Fail|N/A|14:11:14|01/26/23
+Itch Torrijos|43345172|43345172@students.southwales.ac.uk|095|079|006|009|30.7|Fail|N/A|12:15:22|01/03/23
+Claribel Gawkroge|94313043|94313043@students.southwales.ac.uk|062|032|028|024|30.6|Fail|N/A|17:43:58|06/24/22
+Callie Hannam|93017853|93017853@students.southwales.ac.uk|000|013|076|013|30.6|Fail|N/A|13:47:43|12/27/22
+Mae L'Hommee|42872389|42872389@students.southwales.ac.uk|097|034|025|016|30.4|Fail|N/A|08:09:49|05/08/22
+Morie Cominoli|73259452|73259452@students.southwales.ac.uk|037|025|071|001|30.4|Fail|N/A|16:01:11|05/08/22
+Allina Etchell|07622168|07622168@students.southwales.ac.uk|073|042|009|030|30.4|Fail|N/A|18:16:44|10/21/22
+Lou Alti|37447131|37447131@students.southwales.ac.uk|008|029|059|015|30.3|Fail|N/A|20:56:13|11/28/22
+Boniface Verdun|07166168|07166168@students.southwales.ac.uk|051|089|002|017|30.3|Fail|N/A|00:25:52|01/19/23
+Prent Iffland|15047312|15047312@students.southwales.ac.uk|064|068|018|012|30.2|Fail|N/A|16:41:16|07/22/22
+Fedora Gawkroge|96614137|96614137@students.southwales.ac.uk|038|081|002|024|30.2|Fail|N/A|07:15:33|12/11/22
+Kristofor Verrall|47550943|47550943@students.southwales.ac.uk|073|068|016|011|30.1|Fail|N/A|18:49:44|10/24/22
+Denny Devo|76914024|76914024@students.southwales.ac.uk|056|003|013|050|30.1|Fail|N/A|09:46:39|08/16/22
+Allsun Eliet|10583591|10583591@students.southwales.ac.uk|032|034|023|032|29.7|Fail|N/A|20:34:19|03/16/22
+Aldwin Whieldon|68837616|68837616@students.southwales.ac.uk|084|035|029|014|29.7|Fail|N/A|16:33:33|06/20/22
+Ernest Barkworth|04522068|04522068@students.southwales.ac.uk|061|049|026|015|29.7|Fail|N/A|05:48:16|07/28/22
+Ronalda Burrell|97250221|97250221@students.southwales.ac.uk|055|049|018|022|29.5|Fail|N/A|11:01:52|11/12/22
+Ashley Convery|45072024|45072024@students.southwales.ac.uk|052|036|051|004|29.3|Fail|N/A|07:25:22|05/18/22
+Brennen Kyncl|64882159|64882159@students.southwales.ac.uk|049|042|028|019|29.3|Fail|N/A|08:34:48|04/14/22
+Allistir MacCaughey|84908664|84908664@students.southwales.ac.uk|091|018|047|006|29.2|Fail|N/A|02:24:25|11/29/22
+Jerome Verney|12381600|12381600@students.southwales.ac.uk|025|037|019|034|29.2|Fail|N/A|19:27:52|09/06/22
+Gib Copper|66715018|66715018@students.southwales.ac.uk|016|004|028|046|29.2|Fail|N/A|19:18:45|03/02/22
+Jeramie McElhinney|04221051|04221051@students.southwales.ac.uk|027|054|028|018|29.1|Fail|N/A|06:33:29|06/11/22
+Kai Dorro|42153860|42153860@students.southwales.ac.uk|061|095|008|004|29.1|Fail|N/A|20:46:56|07/01/22
+Reinwald Basham|00488159|00488159@students.southwales.ac.uk|078|000|045|019|28.9|Fail|N/A|03:21:53|10/16/22
+Zenia Senescall|77252804|77252804@students.southwales.ac.uk|073|002|069|001|28.8|Fail|N/A|14:17:10|05/24/22
+Amberly Corde|96977701|96977701@students.southwales.ac.uk|009|016|058|018|28.7|Fail|N/A|19:04:29|03/21/22
+Edsel Dunnett|52122903|52122903@students.southwales.ac.uk|024|004|009|057|28.7|Fail|N/A|08:13:14|11/15/22
+Berthe Bellee|71508512|71508512@students.southwales.ac.uk|012|033|060|007|28.6|Fail|N/A|21:26:45|09/16/22
+Denni Agutter|21521252|21521252@students.southwales.ac.uk|004|059|032|017|28.6|Fail|N/A|21:22:25|08/16/22
+Thomasin Yeardley|81595705|81595705@students.southwales.ac.uk|070|018|032|020|28.2|Fail|N/A|10:13:25|12/31/22
+Axel Ricardet|36769338|36769338@students.southwales.ac.uk|002|032|072|N/A|28.2|Fail|104.500000|07:36:46|02/25/22
+Farley Rolles|49876541|49876541@students.southwales.ac.uk|011|014|081|000|28.2|Fail|N/A|07:45:58|08/17/22
+Torrie Hatto|92092487|92092487@students.southwales.ac.uk|063|049|011|022|28.2|Fail|N/A|19:01:33|05/03/22
+Jocelyn Knock|52311052|52311052@students.southwales.ac.uk|029|004|000|061|28.1|Fail|N/A|10:03:24|06/05/22
+Robinson Guerri|02870642|02870642@students.southwales.ac.uk|032|020|035|026|28.1|Fail|N/A|00:47:39|04/02/22
+Roanna Saffen|73649490|73649490@students.southwales.ac.uk|085|045|033|001|27.8|Fail|N/A|14:14:20|08/07/22
+Orelie Oganesian|88831890|88831890@students.southwales.ac.uk|089|063|021|000|27.8|Fail|N/A|21:07:49|06/08/22
+Wini Rostern|92666660|92666660@students.southwales.ac.uk|090|016|036|012|27.8|Fail|N/A|07:41:42|01/18/23
+Birk Daggett|37769260|37769260@students.southwales.ac.uk|051|024|033|020|27.8|Fail|N/A|19:36:32|04/05/22
+Orrin Blackmore|81107429|81107429@students.southwales.ac.uk|060|068|019|006|27.7|Fail|N/A|19:52:42|05/18/22
+Bentlee Emburey|64747565|64747565@students.southwales.ac.uk|065|062|023|004|27.4|Fail|N/A|05:11:23|04/13/22
+Gussi Weeke|03230737|03230737@students.southwales.ac.uk|046|028|036|016|27.4|Fail|N/A|06:03:44|12/25/22
+Huberto Newsham|32612653|32612653@students.southwales.ac.uk|058|043|022|016|27.4|Fail|N/A|18:05:02|06/19/22
+Gabbi Verne|46976791|46976791@students.southwales.ac.uk|007|038|029|026|27.4|Fail|N/A|01:42:18|04/23/22
+Francisco Skilbeck|42251708|42251708@students.southwales.ac.uk|029|070|019|012|27.4|Fail|N/A|19:44:21|03/20/22
+Ringo Kornyshev|25525828|25525828@students.southwales.ac.uk|056|088|010|003|27.4|Fail|N/A|13:00:47|01/20/23
+Bertrand Biers|71421724|71421724@students.southwales.ac.uk|047|043|015|024|27.4|Fail|N/A|18:16:49|12/13/22
+Tammara Medeway|76956422|76956422@students.southwales.ac.uk|012|030|067|000|27.3|Fail|N/A|03:33:24|02/05/22
+Tansy Wankel|26672797|26672797@students.southwales.ac.uk|097|052|016|006|27.3|Fail|N/A|13:30:13|05/11/22
+Alex Lancetter|86843472|86843472@students.southwales.ac.uk|076|028|017|022|27.1|Fail|N/A|03:10:20|10/17/22
+Cooper Petticrow|75824519|75824519@students.southwales.ac.uk|042|046|019|020|27.1|Fail|N/A|09:53:57|02/27/22
+Pasquale Emerton|37249066|37249066@students.southwales.ac.uk|060|049|021|012|26.9|Fail|N/A|01:00:36|08/03/22
+Illa O' Mahony|91163346|91163346@students.southwales.ac.uk|018|024|014|040|26.8|Fail|N/A|12:41:44|05/09/22
+Lemar Dack|82107713|82107713@students.southwales.ac.uk|006|030|063|003|26.7|Fail|N/A|22:44:43|03/20/22
+Carmon Kinahan|11908589|11908589@students.southwales.ac.uk|015|004|068|010|26.7|Fail|N/A|21:05:51|02/24/22
+Haze Lindeboom|78068297|78068297@students.southwales.ac.uk|005|028|026|032|26.7|Fail|N/A|11:44:01|06/01/22
+Ado Argabrite|48688817|48688817@students.southwales.ac.uk|049|057|028|005|26.7|Fail|N/A|14:12:57|01/30/23
+Arni Rabley|13324930|13324930@students.southwales.ac.uk|006|040|055|004|26.7|Fail|N/A|12:46:36|01/26/23
+Pablo Coleyshaw|20718527|20718527@students.southwales.ac.uk|021|048|014|027|26.7|Fail|N/A|15:51:54|07/23/22
+Eliot Bisp|47927527|47927527@students.southwales.ac.uk|065|031|030|012|26.5|Fail|N/A|18:42:39|04/09/22
+Petra Santora|69780959|69780959@students.southwales.ac.uk|009|044|009|035|26.4|Fail|N/A|19:46:01|12/19/22
+Christie Kubasiewicz|00562496|00562496@students.southwales.ac.uk|086|072|011|N/A|26.3|Fail|109.250000|04:01:37|03/14/22
+Juliette Brickstock|50751828|50751828@students.southwales.ac.uk|085|013|001|037|26.2|Fail|N/A|14:35:13|08/28/22
+Blondelle Vaillant|57781028|57781028@students.southwales.ac.uk|010|032|001|046|26.1|Fail|N/A|20:16:00|01/22/23
+Edan Delia|36527925|36527925@students.southwales.ac.uk|035|013|034|024|25.9|Fail|N/A|22:25:25|12/07/22
+Giselbert Novik|59321997|59321997@students.southwales.ac.uk|028|065|025|006|25.7|Fail|N/A|22:58:50|11/23/22
+Biron Clowser|25462332|25462332@students.southwales.ac.uk|024|022|016|035|25.6|Fail|N/A|02:59:21|12/28/22
+Lana Gaenor|13389884|13389884@students.southwales.ac.uk|005|000|021|047|25.6|Fail|N/A|11:05:37|07/05/22
+Garv Yonge|73876114|73876114@students.southwales.ac.uk|063|073|005|008|25.6|Fail|N/A|16:45:56|03/29/22
+Sharia Burne|64503069|64503069@students.southwales.ac.uk|037|071|023|002|25.6|Fail|N/A|18:13:59|02/08/22
+Nels Proback|74832171|74832171@students.southwales.ac.uk|050|014|015|033|25.5|Fail|N/A|12:03:08|05/30/22
+Albie Vasilyevski|79837658|79837658@students.southwales.ac.uk|048|023|031|017|25.5|Fail|N/A|13:42:47|07/20/22
+Brewster Busen|41155149|41155149@students.southwales.ac.uk|040|003|021|036|25.3|Fail|N/A|02:15:57|06/01/22
+Odette Roskelley|57320507|57320507@students.southwales.ac.uk|016|010|003|052|25.3|Fail|N/A|08:00:52|10/14/22
+Wandie Ioselevich|23159423|23159423@students.southwales.ac.uk|062|031|007|027|25.3|Fail|N/A|07:25:23|06/16/22
+Lorne Wallentin|09959318|09959318@students.southwales.ac.uk|015|028|008|039|25.1|Fail|N/A|08:58:36|11/08/22
+Avril Gregori|17128804|17128804@students.southwales.ac.uk|097|045|000|016|25.1|Fail|N/A|19:32:22|01/01/23
+Jeniffer Gerrett|46398809|46398809@students.southwales.ac.uk|059|027|027|014|25|Fail|N/A|13:29:27|07/09/22
+Donall Aartsen|46022468|46022468@students.southwales.ac.uk|029|081|010|007|24.9|Fail|N/A|10:43:52|08/01/22
+Erminia Ferrarotti|45337101|45337101@students.southwales.ac.uk|038|075|004|011|24.4|Fail|N/A|05:00:31|08/10/22
+Prentice Danbury|54587768|54587768@students.southwales.ac.uk|028|019|043|012|24.3|Fail|N/A|14:43:55|04/30/22
+Maddie Fisbey|53615470|53615470@students.southwales.ac.uk|071|029|030|006|24.3|Fail|N/A|10:26:54|03/31/22
+D'arcy Chellenham|75086127|75086127@students.southwales.ac.uk|067|064|015|N/A|24|Fail|115.000000|15:30:40|02/04/22
+Monti McInnerny|40269298|40269298@students.southwales.ac.uk|053|070|001|011|24|Fail|N/A|21:36:31|01/07/23
+Faber Caslett|96916666|96916666@students.southwales.ac.uk|014|088|012|003|23.8|Fail|N/A|03:56:03|01/14/23
+Eldridge Roubay|92538827|92538827@students.southwales.ac.uk|050|055|010|012|23.8|Fail|N/A|00:21:49|09/12/22
+Chelsae McSparran|15189431|15189431@students.southwales.ac.uk|061|025|013|022|23.8|Fail|N/A|03:42:47|12/05/22
+Rudd Attril|71048150|71048150@students.southwales.ac.uk|074|036|022|006|23.6|Fail|N/A|04:47:08|12/11/22
+Kaia MacAnulty|05626757|05626757@students.southwales.ac.uk|031|087|001|007|23.6|Fail|N/A|18:53:38|08/29/22
+Don Mableson|18421234|18421234@students.southwales.ac.uk|085|005|000|035|23.5|Fail|N/A|22:27:13|10/08/22
+Chrisy Mapes|72812458|72812458@students.southwales.ac.uk|040|045|034|N/A|23.2|Fail|117.000000|18:49:01|07/11/22
+Isa Lacknor|14100893|14100893@students.southwales.ac.uk|003|014|064|002|23.1|Fail|N/A|05:09:58|02/03/22
+Danie Kunzel|40063374|40063374@students.southwales.ac.uk|008|054|005|025|23.1|Fail|N/A|12:15:32|03/16/22
+Faulkner Waistall|72621966|72621966@students.southwales.ac.uk|046|023|005|031|23.1|Fail|N/A|23:15:08|08/08/22
+Marga Ewington|70949314|70949314@students.southwales.ac.uk|038|005|031|022|22.9|Fail|N/A|17:04:05|08/16/22
+Roslyn Gerger|46089913|46089913@students.southwales.ac.uk|069|066|009|000|22.8|Fail|N/A|23:13:21|11/23/22
+Misha Huddlestone|30704555|30704555@students.southwales.ac.uk|056|006|005|036|22.7|Fail|N/A|00:38:34|08/05/22
+Brady Clemetts|17734770|17734770@students.southwales.ac.uk|016|079|005|009|22.5|Fail|N/A|23:13:12|06/18/22
+Malachi Loveguard|42411781|42411781@students.southwales.ac.uk|047|030|003|027|22.4|Fail|N/A|01:31:35|05/19/22
+Dalton Pigrome|85556176|85556176@students.southwales.ac.uk|018|055|028|003|22.4|Fail|N/A|11:06:02|01/17/23
+Elonore Morrallee|98559354|98559354@students.southwales.ac.uk|038|035|025|010|22.3|Fail|N/A|00:30:42|11/27/22
+Dalenna Gethouse|62456509|62456509@students.southwales.ac.uk|067|027|010|018|22.3|Fail|N/A|14:03:24|09/11/22
+Alonso Brosius|30749974|30749974@students.southwales.ac.uk|030|058|011|011|22.3|Fail|N/A|19:22:07|08/12/22
+Serena Sturgess|96473231|96473231@students.southwales.ac.uk|038|052|020|005|22.2|Fail|N/A|08:55:44|09/22/22
+Tally Childe|09506588|09506588@students.southwales.ac.uk|035|049|009|015|22|Fail|N/A|08:06:09|03/01/22
+Leontyne Heazel|65758840|65758840@students.southwales.ac.uk|074|032|007|015|21.9|Fail|N/A|20:05:19|11/21/22
+Care McLaggan|76633673|76633673@students.southwales.ac.uk|063|053|003|009|21.4|Fail|N/A|07:14:33|03/09/22
+Sherwynd Kees|00510407|00510407@students.southwales.ac.uk|039|080|000|003|21.1|Fail|N/A|17:52:08|10/08/22
+Mallorie Claypoole|01554949|01554949@students.southwales.ac.uk|036|050|025|000|21.1|Fail|N/A|00:03:59|01/28/23
+Dev Karlik|62777575|62777575@students.southwales.ac.uk|028|041|001|024|20.9|Fail|N/A|22:44:08|02/08/22
+Kalinda Yuranovev|88127911|88127911@students.southwales.ac.uk|018|077|005|005|20.7|Fail|N/A|06:26:56|11/25/22
+Vanya Sweatland|63558699|63558699@students.southwales.ac.uk|099|020|008|011|20.7|Fail|N/A|14:16:20|02/12/22
+Elysee Beautyman|97088308|97088308@students.southwales.ac.uk|019|004|004|042|20.7|Fail|N/A|00:24:45|04/24/22
+Rasia Rogge|02932060|02932060@students.southwales.ac.uk|039|043|012|011|20.5|Fail|N/A|04:33:34|03/18/22
+Bambie Crawford|87523505|87523505@students.southwales.ac.uk|052|046|014|004|20.2|Fail|N/A|16:37:05|10/01/22
+Salvatore Oake|26811077|26811077@students.southwales.ac.uk|076|043|008|003|19.8|Fail|N/A|09:49:13|01/29/23
+Thedrick Truwert|12781514|12781514@students.southwales.ac.uk|052|049|009|005|19.7|Fail|N/A|15:53:24|05/14/22
+Cos Tomlins|10426063|10426063@students.southwales.ac.uk|054|057|008|001|19.6|Fail|N/A|21:38:10|11/12/22
+Sisile Swindin|33833930|33833930@students.southwales.ac.uk|017|055|008|011|19.5|Fail|N/A|17:31:20|09/19/22
+Keriann Baptie|19361960|19361960@students.southwales.ac.uk|044|007|031|011|19.5|Fail|N/A|20:21:51|07/23/22
+Lemuel Jeacop|13347985|13347985@students.southwales.ac.uk|020|001|008|037|19.4|Fail|N/A|13:11:08|08/12/22
+Fons Eastes|47217238|47217238@students.southwales.ac.uk|035|019|040|N/A|19.3|Fail|126.750000|18:28:12|09/16/22
+Cass Baudrey|76715625|76715625@students.southwales.ac.uk|040|035|005|017|19.3|Fail|N/A|12:00:19|11/19/22
+Jackquelin Casterou|40271685|40271685@students.southwales.ac.uk|060|008|011|020|18.9|Fail|N/A|10:56:51|10/23/22
+Marnia Harvey|64698230|64698230@students.southwales.ac.uk|014|032|003|025|18.7|Fail|N/A|11:53:00|12/14/22
+Norma Stainland|98597700|98597700@students.southwales.ac.uk|037|014|024|012|18.5|Fail|N/A|17:30:58|12/26/22
+Griffin Grigorio|97364473|97364473@students.southwales.ac.uk|040|013|039|000|18.3|Fail|N/A|23:21:10|03/28/22
+Camile Sked|89203952|89203952@students.southwales.ac.uk|056|030|020|001|18|Fail|N/A|13:29:52|05/02/22
+Abram Abramowsky|23881383|23881383@students.southwales.ac.uk|013|043|016|008|17.9|Fail|N/A|16:51:35|04/07/22
+Tiebout Margaritelli|02926436|02926436@students.southwales.ac.uk|012|023|000|030|17.8|Fail|N/A|04:06:47|11/21/22
+Imojean Jira|69286743|69286743@students.southwales.ac.uk|010|021|035|005|17.7|Fail|N/A|09:39:41|05/03/22
+Kai MacFie|05206454|05206454@students.southwales.ac.uk|009|000|012|032|17.3|Fail|N/A|14:01:41|10/30/22
+Portie Wheble|37522062|37522062@students.southwales.ac.uk|074|032|000|008|17|Fail|N/A|16:41:20|09/07/22
+Nerti Mangam|35132303|35132303@students.southwales.ac.uk|002|011|003|033|16.5|Fail|N/A|15:52:48|09/05/22
+Bonnee Morritt|94714043|94714043@students.southwales.ac.uk|006|049|009|008|16.3|Fail|N/A|22:53:50|02/26/22
+Allyn Wharlton|58992770|58992770@students.southwales.ac.uk|040|004|030|006|16.2|Fail|N/A|03:19:08|04/21/22
+Sol Headley|26974687|26974687@students.southwales.ac.uk|062|027|015|N/A|16.1|Fail|134.750000|02:26:06|06/05/22
+Gard Cicconettii|74241592|74241592@students.southwales.ac.uk|020|034|017|005|15.9|Fail|N/A|19:53:38|05/13/22
+Sven Danelet|41812537|41812537@students.southwales.ac.uk|097|005|008|004|14.7|Fail|N/A|17:11:22|01/17/23
+Lanie Dimmick|43884000|43884000@students.southwales.ac.uk|000|005|037|006|14.5|Fail|N/A|08:02:16|05/07/22
+Geri Henningham|00280218|00280218@students.southwales.ac.uk|049|023|011|004|14.4|Fail|N/A|21:56:14|06/26/22
+Griffie Southey|84853760|84853760@students.southwales.ac.uk|052|004|008|013|13.6|Fail|N/A|07:07:58|09/02/22
+Dietrich Sudell|34514311|34514311@students.southwales.ac.uk|013|003|030|006|13.3|Fail|N/A|02:29:59|05/03/22
+Loralyn Whitrod|19128627|19128627@students.southwales.ac.uk|009|022|006|013|12.3|Fail|N/A|18:26:09|09/09/22
+Federica Runnicles|54448220|54448220@students.southwales.ac.uk|011|002|034|001|12.1|Fail|N/A|18:54:33|06/30/22
+Evvy Nollet|83423084|83423084@students.southwales.ac.uk|005|017|012|011|11.9|Fail|N/A|01:34:54|05/28/22
+Linnet Farny|17829045|17829045@students.southwales.ac.uk|079|012|003|000|11.2|Fail|N/A|08:07:00|06/14/22
+Giuseppe Burlay|34740879|34740879@students.southwales.ac.uk|005|020|001|015|10.8|Fail|N/A|22:16:07|07/07/22
+Sybil Rosettini|46355609|46355609@students.southwales.ac.uk|022|009|009|010|10.7|Fail|N/A|07:34:33|05/30/22
+Aurore Gavrielli|68745096|68745096@students.southwales.ac.uk|026|029|006|001|10.6|Fail|N/A|18:13:58|04/29/22
+Arlie Coey|79442087|79442087@students.southwales.ac.uk|007|021|008|002|8.1|Fail|N/A|17:37:27|03/10/22
