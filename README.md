@@ -22,6 +22,14 @@
   - Will list all the student's grades in the console.
 * List students.
   - Will list all the student's data in the console.
+* Sort students.
+  - Can sort the student's data into ascending or descending order.
+* Search for a student.
+  - Can type in a student's name and find them.
+* Edit a student's data.
+  - Can edit any part of a student's data.
+* File input and output.
+  - Inputs and outputs all the student's data in a text file.
 
 ## How To Use
 
